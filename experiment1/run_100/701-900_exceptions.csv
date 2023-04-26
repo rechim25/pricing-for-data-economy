@@ -1,0 +1,348 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,17,datasnaek_youtube,../datasets\datasnaek_youtube\GBcomments.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 4 fields in line 113225, saw 5
+
+"
+1,17,datasnaek_youtube,../datasets\datasnaek_youtube\GBvideos.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 2398, saw 21
+
+"
+2,17,datasnaek_youtube,../datasets\datasnaek_youtube\UScomments.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 4 fields in line 41589, saw 11
+
+"
+3,17,datasnaek_youtube,../datasets\datasnaek_youtube\USvideos.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 2401, saw 21
+
+"
+4,29,ruchi798_bookcrossing-dataset,../datasets\ruchi798_bookcrossing-dataset\Book reviews\Book reviews\BX-Users.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe9 in position 1682: invalid continuation byte
+"
+5,29,ruchi798_bookcrossing-dataset,../datasets\ruchi798_bookcrossing-dataset\Book reviews\Book reviews\BX_Books.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 889, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 1034, in pandas._libs.parsers.TextReader._convert_column_data
+  File ""pandas\_libs\parsers.pyx"", line 1073, in pandas._libs.parsers.TextReader._convert_tokens
+  File ""pandas\_libs\parsers.pyx"", line 1235, in pandas._libs.parsers.TextReader._convert_with_dtype
+  File ""pandas\_libs\parsers.pyx"", line 1251, in pandas._libs.parsers.TextReader._string_convert
+  File ""pandas\_libs\parsers.pyx"", line 1499, in pandas._libs.parsers._string_box_utf8
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc3 in position 26: invalid continuation byte
+"
+6,56,davidwallach_financial-tweets,../datasets\davidwallach_financial-tweets\stockerbot-export.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 8 fields in line 731, saw 13
+
+"
+7,75,jessicali9530_honey-production,../datasets\jessicali9530_honey-production\honeyraw_1998to2002.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 4, saw 9
+
+"
+8,75,jessicali9530_honey-production,../datasets\jessicali9530_honey-production\honeyraw_2003to2007.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 3, saw 9
+
+"
+9,75,jessicali9530_honey-production,../datasets\jessicali9530_honey-production\honeyraw_2008to2012.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x96 in position 239: invalid start byte
+"
+10,102,benhamner_nips-papers,../datasets\benhamner_nips-papers\papers.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 343, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2690, in _update_profile_from_chunk
+    self._profile[prof_idx].update_column_profilers(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 170, in update_column_profilers
+    ""data_label_profile"": ColumnDataLabelerCompiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 51, in __init__
+    self._create_profile(df_series, options, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 107, in _create_profile
+    self.update_profile(df_series, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 177, in update_profile
+    self._profiles[profile_type].update(df_series)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 424, in update
+    self._update_predictions(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 371, in _update_predictions
+    predictions = self.data_labeler.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\base_data_labeler.py"", line 315, in predict
+    results = self._model.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\character_level_cnn_model.py"", line 817, in predict
+    confidences = np.pad(
+  File ""<__array_function__ internals>"", line 200, in pad
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 794, in pad
+    padded, original_area_slice = _pad_simple(array, pad_width)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 114, in _pad_simple
+    padded = np.empty(new_shape, dtype=array.dtype, order=order)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 19.9 GiB for an array with shape (32736, 3400, 24) and data type float64
+"
+11,145,fivethirtyeight_fivethirtyeight,../datasets\fivethirtyeight_fivethirtyeight\data\data\congress-age\congress-age\congress-terms.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 13 fields in line 7054, saw 14
+
+"
+12,198,stephanerappeneau_350-000-movies-from-themoviedborg,../datasets\stephanerappeneau_350-000-movies-from-themoviedborg\500 favorite directors_with wikipedia summary.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 527, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    sample_size = min(len(data.data), MAX_NROWS)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 5 fields in line 11, saw 19
+
+"

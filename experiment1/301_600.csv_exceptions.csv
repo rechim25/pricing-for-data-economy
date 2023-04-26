@@ -1,0 +1,997 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,7,docstein_brics-world-bank-indicators,../datasets\docstein_brics-world-bank-indicators\BRICS Development Indicators\HealthAndPoverty_Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 9
+
+"
+1,7,docstein_brics-world-bank-indicators,../datasets\docstein_brics-world-bank-indicators\BRICS Development Indicators\PublicSector_Indicators.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 12
+
+"
+2,23,jealousleopard_goodreadsbooks,../datasets\jealousleopard_goodreadsbooks\books.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 12 fields in line 3350, saw 13
+
+"
+3,109,irfanasrullah_groceries,../datasets\irfanasrullah_groceries\groceries.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 4 fields in line 6, saw 5
+
+"
+4,117,devorvant_economic-calendar,../datasets\devorvant_economic-calendar\D2011-13.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+5,117,devorvant_economic-calendar,../datasets\devorvant_economic-calendar\D2014-18.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+6,117,devorvant_economic-calendar,../datasets\devorvant_economic-calendar\D2019-21.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+7,146,agatii_total-sale-2018-yearly-data-of-grocery-shop,../datasets\agatii_total-sale-2018-yearly-data-of-grocery-shop\ROTATION_of_products01.01.2018-09.01.2019.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 597: invalid continuation byte
+"
+8,146,agatii_total-sale-2018-yearly-data-of-grocery-shop,../datasets\agatii_total-sale-2018-yearly-data-of-grocery-shop\SELL_1.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 8006: invalid continuation byte
+"
+9,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY10.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+10,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY11.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+11,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY12.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+12,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY13.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+13,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY14.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+14,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY15.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+15,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY16.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+16,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY17.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+17,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY18.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+18,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY19.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+19,166,jpmiller_publicassistance,../datasets\jpmiller_publicassistance\SNAP_FY2010_FY2020\FY20.xls,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File ""C:\ProgramData\Anaconda3\lib\importlib\__init__.py"", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File ""<frozen importlib._bootstrap>"", line 1030, in _gcd_import
+  File ""<frozen importlib._bootstrap>"", line 1007, in _find_and_load
+  File ""<frozen importlib._bootstrap>"", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 465, in load_data_from_file
+    data = pd.read_excel(file_path)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_base.py"", line 1695, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\excel\_xlrd.py"", line 34, in __init__
+    import_optional_dependency(""xlrd"", extra=err_msg)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\compat\_optional.py"", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 501, in extract_file_attributes_to_df
+    data, encoding = load_data_from_file(file)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 469, in load_data_from_file
+    print(""Failed to read excel file '%s'. Got exception: %s"" % (file_path, encoding, str(e)))
+TypeError: not all arguments converted during string formatting
+"
+20,187,mylesoneill_world-university-rankings,../datasets\mylesoneill_world-university-rankings\education_expenditure_supplementary_data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+"
+21,205,whenamancodes_student-performance,../datasets\whenamancodes_student-performance\Maths.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb3 in position 10: invalid start byte
+"
+22,205,whenamancodes_student-performance,../datasets\whenamancodes_student-performance\Portuguese.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 11: invalid start byte
+"
+23,243,yelp-dataset_yelp-dataset,../datasets\yelp-dataset_yelp-dataset\yelp_academic_dataset_user.json,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\json_data.py"", line 273, in _load_data_from_file
+    data = json.load(input_file)
+  File ""C:\ProgramData\Anaconda3\lib\json\__init__.py"", line 293, in load
+    return loads(fp.read(),
+MemoryError
+"
+24,251,netflix-inc_netflix-prize-data,../datasets\netflix-inc_netflix-prize-data\movie_titles.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 72, saw 4
+
+"
+25,291,raddar_amex-data-integer-dtypes-parquet-format,../datasets\raddar_amex-data-integer-dtypes-parquet-format\test.parquet,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\parquet_data.py"", line 102, in _load_data_from_file
+    data, original_df_dtypes = data_utils.read_parquet_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 352, in read_parquet_df
+    data_row_df = parquet_file.read_row_group(i).to_pandas()
+  File ""pyarrow\array.pxi"", line 830, in pyarrow.lib._PandasConvertible.to_pandas
+  File ""pyarrow\table.pxi"", line 3990, in pyarrow.lib.Table._to_pandas
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\pyarrow\pandas_compat.py"", line 820, in table_to_blockmanager
+    blocks = _table_to_blocks(options, table, categories, ext_columns_dtypes)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\pyarrow\pandas_compat.py"", line 1169, in _table_to_blocks
+    result = pa.lib.table_to_blocks(options, block_table, categories,
+  File ""pyarrow\table.pxi"", line 2646, in pyarrow.lib.table_to_blocks
+  File ""pyarrow\error.pxi"", line 117, in pyarrow.lib.check_status
+pyarrow.lib.ArrowMemoryError: malloc of size 4227319488 failed
+"
+26,291,raddar_amex-data-integer-dtypes-parquet-format,../datasets\raddar_amex-data-integer-dtypes-parquet-format\train.parquet,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\parquet_data.py"", line 102, in _load_data_from_file
+    data, original_df_dtypes = data_utils.read_parquet_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 378, in read_parquet_df
+    data = data.astype(str)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\generic.py"", line 6240, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 448, in astype
+    return self.apply(""astype"", dtype=dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 352, in apply
+    applied = getattr(b, f)(**kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\blocks.py"", line 526, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 299, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 230, in astype_array
+    values = astype_nansafe(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 112, in astype_nansafe
+    return lib.ensure_string_array(
+  File ""pandas\_libs\lib.pyx"", line 705, in pandas._libs.lib.ensure_string_array
+  File ""pandas\_libs\lib.pyx"", line 750, in pandas._libs.lib.ensure_string_array
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 127. MiB for an array with shape (16594353,) and data type object
+"
+27,297,shrutimehta_zomato-restaurants-data,../datasets\shrutimehta_zomato-restaurants-data\file2.json,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2690, in _update_profile_from_chunk
+    self._profile[prof_idx].update_column_profilers(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 170, in update_column_profilers
+    ""data_label_profile"": ColumnDataLabelerCompiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 51, in __init__
+    self._create_profile(df_series, options, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 107, in _create_profile
+    self.update_profile(df_series, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 177, in update_profile
+    self._profiles[profile_type].update(df_series)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 424, in update
+    self._update_predictions(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 371, in _update_predictions
+    predictions = self.data_labeler.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\base_data_labeler.py"", line 315, in predict
+    results = self._model.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\character_level_cnn_model.py"", line 817, in predict
+    confidences = np.pad(
+  File ""<__array_function__ internals>"", line 180, in pad
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 793, in pad
+    padded, original_area_slice = _pad_simple(array, pad_width)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 114, in _pad_simple
+    padded = np.empty(new_shape, dtype=array.dtype, order=order)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 9.94 GiB for an array with shape (16352, 3400, 24) and data type float64
+"
+28,297,shrutimehta_zomato-restaurants-data,../datasets\shrutimehta_zomato-restaurants-data\file3.json,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2690, in _update_profile_from_chunk
+    self._profile[prof_idx].update_column_profilers(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 170, in update_column_profilers
+    ""data_label_profile"": ColumnDataLabelerCompiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 51, in __init__
+    self._create_profile(df_series, options, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 107, in _create_profile
+    self.update_profile(df_series, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 177, in update_profile
+    self._profiles[profile_type].update(df_series)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 424, in update
+    self._update_predictions(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 371, in _update_predictions
+    predictions = self.data_labeler.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\base_data_labeler.py"", line 315, in predict
+    results = self._model.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\character_level_cnn_model.py"", line 817, in predict
+    confidences = np.pad(
+  File ""<__array_function__ internals>"", line 180, in pad
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 793, in pad
+    padded, original_area_slice = _pad_simple(array, pad_width)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 114, in _pad_simple
+    padded = np.empty(new_shape, dtype=array.dtype, order=order)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 9.94 GiB for an array with shape (16352, 3400, 24) and data type float64
+"
+29,297,shrutimehta_zomato-restaurants-data,../datasets\shrutimehta_zomato-restaurants-data\file4.json,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2690, in _update_profile_from_chunk
+    self._profile[prof_idx].update_column_profilers(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 170, in update_column_profilers
+    ""data_label_profile"": ColumnDataLabelerCompiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 51, in __init__
+    self._create_profile(df_series, options, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 107, in _create_profile
+    self.update_profile(df_series, pool)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 177, in update_profile
+    self._profiles[profile_type].update(df_series)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 424, in update
+    self._update_predictions(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 371, in _update_predictions
+    predictions = self.data_labeler.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\base_data_labeler.py"", line 315, in predict
+    results = self._model.predict(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\labelers\character_level_cnn_model.py"", line 817, in predict
+    confidences = np.pad(
+  File ""<__array_function__ internals>"", line 180, in pad
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 793, in pad
+    padded, original_area_slice = _pad_simple(array, pad_width)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\numpy\lib\arraypad.py"", line 114, in _pad_simple
+    padded = np.empty(new_shape, dtype=array.dtype, order=order)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 9.94 GiB for an array with shape (16352, 3400, 24) and data type float64
+"
+30,299,wordsforthewise_lending-club,../datasets\wordsforthewise_lending-club\accepted_2007_to_2018q4.csv\accepted_2007_to_2018Q4.csv,"Traceback (most recent call last):
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 353, in _hash_ndarray
+    vals = hash_object_array(vals, hash_key, encoding)
+  File ""pandas\_libs\hashing.pyx"", line 91, in pandas._libs.hashing.hash_object_array
+TypeError: 68407277 of type <class 'int'> is not a valid type for hashing, must be string or null
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2708, in _update_profile_from_chunk
+    self._update_row_statistics(data, samples_for_row_stats)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1928, in _update_row_statistics
+    dict.fromkeys(pd.util.hash_pandas_object(data, index=False), True)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 167, in hash_pandas_object
+    h = combine_hash_arrays(hashes, num_items)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 66, in combine_hash_arrays
+    first = next(arrays)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 147, in <genexpr>
+    hash_array(series._values, encoding, hash_key, categorize)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 308, in hash_array
+    return _hash_ndarray(vals, encoding, hash_key, categorize)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 350, in _hash_ndarray
+    return _hash_categorical(cat, encoding, hash_key)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 241, in _hash_categorical
+    hashed = hash_array(values, encoding, hash_key, categorize=False)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 308, in hash_array
+    return _hash_ndarray(vals, encoding, hash_key, categorize)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\util\hashing.py"", line 357, in _hash_ndarray
+    vals.astype(str).astype(object), hash_key, encoding
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 17.2 MiB for an array with shape (2260701,) and data type object
+"

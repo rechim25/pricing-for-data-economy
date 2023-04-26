@@ -1,0 +1,497 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,5,whenamancodes_student-performance,../datasets\whenamancodes_student-performance\Maths.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb3 in position 10: invalid start byte
+"
+1,5,whenamancodes_student-performance,../datasets\whenamancodes_student-performance\Portuguese.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 11: invalid start byte
+"
+2,51,netflix-inc_netflix-prize-data,../datasets\netflix-inc_netflix-prize-data\movie_titles.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 72, saw 4
+
+"
+3,89,raddar_amex-data-integer-dtypes-parquet-format,../datasets\raddar_amex-data-integer-dtypes-parquet-format\test.parquet,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\parquet_data.py"", line 102, in _load_data_from_file
+    data, original_df_dtypes = data_utils.read_parquet_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 378, in read_parquet_df
+    data = data.astype(str)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\generic.py"", line 6324, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 451, in astype
+    return self.apply(
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 352, in apply
+    applied = getattr(b, f)(**kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\blocks.py"", line 511, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 242, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 187, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 100, in _astype_nansafe
+    return lib.ensure_string_array(
+  File ""pandas\_libs\lib.pyx"", line 712, in pandas._libs.lib.ensure_string_array
+  File ""pandas\_libs\lib.pyx"", line 787, in pandas._libs.lib.ensure_string_array
+MemoryError
+"
+4,89,raddar_amex-data-integer-dtypes-parquet-format,../datasets\raddar_amex-data-integer-dtypes-parquet-format\train.parquet,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\parquet_data.py"", line 102, in _load_data_from_file
+    data, original_df_dtypes = data_utils.read_parquet_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 378, in read_parquet_df
+    data = data.astype(str)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\generic.py"", line 6324, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 451, in astype
+    return self.apply(
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\managers.py"", line 352, in apply
+    applied = getattr(b, f)(**kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\internals\blocks.py"", line 511, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 242, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 187, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\dtypes\astype.py"", line 100, in _astype_nansafe
+    return lib.ensure_string_array(
+  File ""pandas\_libs\lib.pyx"", line 712, in pandas._libs.lib.ensure_string_array
+  File ""pandas\_libs\lib.pyx"", line 757, in pandas._libs.lib.ensure_string_array
+MemoryError
+"
+5,100,abhinavwalia95_entity-annotated-corpus,../datasets\abhinavwalia95_entity-annotated-corpus\ner.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 889, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 1034, in pandas._libs.parsers.TextReader._convert_column_data
+  File ""pandas\_libs\parsers.pyx"", line 1073, in pandas._libs.parsers.TextReader._convert_tokens
+  File ""pandas\_libs\parsers.pyx"", line 1235, in pandas._libs.parsers.TextReader._convert_with_dtype
+  File ""pandas\_libs\parsers.pyx"", line 1251, in pandas._libs.parsers.TextReader._string_convert
+  File ""pandas\_libs\parsers.pyx"", line 1499, in pandas._libs.parsers._string_box_utf8
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x85 in position 0: invalid start byte
+"
+6,104,hhs_health-insurance-marketplace,../datasets\hhs_health-insurance-marketplace\raw\._Machine_Readable_PUF_2015-12-21.xlsx,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 528, in extract_file_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 356, in create_attributes_from_file_report
+    add_consistency_attributes(attributes_dict, feature_stats, global_stats)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 184, in add_consistency_attributes
+    if feature_stats['data_type'] == 'int':
+TypeError: string indices must be integers
+"
+7,105,NUFORC_ufo-sightings,../datasets\NUFORC_ufo-sightings\complete.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 878, saw 12
+
+"
+8,141,zusmani_the-holy-quran,../datasets\zusmani_the-holy-quran\Chinese.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 1502, saw 4
+
+"
+9,141,zusmani_the-holy-quran,../datasets\zusmani_the-holy-quran\Indonesian.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 2102, saw 4
+
+"
+10,141,zusmani_the-holy-quran,../datasets\zusmani_the-holy-quran\Malayalam.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 10, saw 4
+
+"
+11,141,zusmani_the-holy-quran,../datasets\zusmani_the-holy-quran\Uzbek.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 35 fields in line 505, saw 37
+
+"
+12,165,rajanand_crime-in-india,../datasets\rajanand_crime-in-india\36_Police_housing.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 7 fields in line 698, saw 9
+
+"
+13,165,rajanand_crime-in-india,../datasets\rajanand_crime-in-india\42_Cases_under_crime_against_women.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 22 fields in line 2452, saw 23
+
+"
+14,165,rajanand_crime-in-india,../datasets\rajanand_crime-in-india\43_Arrests_under_crime_against_women.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 16 fields in line 2452, saw 17
+
+"
+15,179,unanimad_corona-virus-brazil,../datasets\unanimad_corona-virus-brazil\brazil_population_2019.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 8 fields in line 1282, saw 9
+
+"
+16,194,manchunhui_us-election-2020-tweets,../datasets\manchunhui_us-election-2020-tweets\hashtag_donaldtrump.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File ""pandas\_libs\parsers.pyx"", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+"
+17,196,crawford_emnist,../datasets\crawford_emnist\emnist-byclass-train.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2668, in _update_profile_from_chunk
+    clean_sampled_dict[prof_idx], base_stats = self._profile[
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 613, in clean_data_and_get_base_stats
+    df_series = df_series.loc[true_sample_list]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexing.py"", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexing.py"", line 1332, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexing.py"", line 1272, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexing.py"", line 1462, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexes\base.py"", line 5871, in _get_indexer_strict
+    indexer = self.get_indexer_for(keyarr)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexes\base.py"", line 5858, in get_indexer_for
+    return self.get_indexer(target)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexes\base.py"", line 3797, in get_indexer
+    return this._get_indexer(
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexes\range.py"", line 374, in _get_indexer
+    locs[valid] = locs[valid] / step
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 3.81 MiB for an array with shape (500000,) and data type float64
+"
+18,196,crawford_emnist,../datasets\crawford_emnist\emnist-bymerge-train.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2668, in _update_profile_from_chunk
+    clean_sampled_dict[prof_idx], base_stats = self._profile[
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 541, in clean_data_and_get_base_stats
+    df_series = df_series.apply(str)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\series.py"", line 4631, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\apply.py"", line 1025, in apply
+    return self.apply_standard()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\apply.py"", line 1076, in apply_standard
+    mapped = lib.map_infer(
+  File ""pandas\_libs\lib.pyx"", line 2843, in pandas._libs.lib.map_infer
+  File ""pandas\_libs\lib.pyx"", line 2443, in pandas._libs.lib.maybe_convert_objects
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 3.81 MiB for an array with shape (500000,) and data type uint64
+"

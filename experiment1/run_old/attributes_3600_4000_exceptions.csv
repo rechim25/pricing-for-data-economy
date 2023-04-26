@@ -1,0 +1,800 @@
+,ref_no_slash,file_path,exception_str
+0,ravindusachintha_usdlkr-exchange-rates-from-2017-to-2021,../datasets\ravindusachintha_usdlkr-exchange-rates-from-2017-to-2021\data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 3, saw 3
+
+"
+1,ravindusachintha_multiple-currencies-exchange-rates-2010-2021,../datasets\ravindusachintha_multiple-currencies-exchange-rates-2010-2021\data (2).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 3, saw 3
+
+"
+2,denestalk_lethosos-world-bank,../datasets\denestalk_lethosos-world-bank\Metadata_Country_API_LSO_DS2_en_csv_v2_3495820.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+3,denestalk_lethosos-world-bank,../datasets\denestalk_lethosos-world-bank\Metadata_Indicator_API_LSO_DS2_en_csv_v2_3495820.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+4,jamesharrisiii_bitcoin-correlation-to-stocks,../datasets\jamesharrisiii_bitcoin-correlation-to-stocks\Bitcoin Correlation to Stocks etc (1) - Bitcoin Correlation to Stocks etc (1).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+5,dhanushkeshawa_btcusd,../datasets\dhanushkeshawa_btcusd\BTC-USD Training Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+6,valton_market-basjket-analysis,../datasets\valton_market-basjket-analysis\ItemList.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+7,akhilkrishnathinna_pre-open-market-dataset,../datasets\akhilkrishnathinna_pre-open-market-dataset\MW-Pre-Open-Market-01-May-2022.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+8,coolio51_matching-bitcoin-files,../datasets\coolio51_matching-bitcoin-files\btc_clean_volume-1.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+"
+9,coolio51_newmatchingbitcoinfiles,../datasets\coolio51_newmatchingbitcoinfiles\btc_clean_prices-1.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+"
+10,coolio51_newmatchingbitcoinfiles,../datasets\coolio51_newmatchingbitcoinfiles\btc_clean_volume-1.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+"
+11,teodorsamuelvrubel_euro-k-korun,../datasets\teodorsamuelvrubel_euro-k-korun\CS_Exchange_rates_20220516.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 2, saw 4
+
+"
+12,moronfoladaniel_my-forex-dataset,../datasets\moronfoladaniel_my-forex-dataset\EUR_GBP Historical Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+13,kunruiwang_apple-stock,../datasets\kunruiwang_apple-stock\apple_stock.xlsx,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 456, in extract_attributes_to_df
+    data = Data(file)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data.py"", line 76, in __new__
+    data is not None or data_class.is_match(input_file_path, options_copy)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\graph_data.py"", line 155, in is_match
+    if not CSVData.is_match(file_path, options):
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 643, in is_match
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 10: invalid start byte
+"
+14,prasoonshukla_per-capita-gdp-ppp-per-person,../datasets\prasoonshukla_per-capita-gdp-ppp-per-person\API_NY.GDP.PCAP.PP.CD_DS2_en_csv_v2_1068882.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+15,prasoonshukla_per-capita-gdp-ppp-per-person,../datasets\prasoonshukla_per-capita-gdp-ppp-per-person\Metadata_Country_API_NY.GDP.PCAP.PP.CD_DS2_en_csv_v2_1068882.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+16,prasoonshukla_per-capita-gdp-ppp-per-person,../datasets\prasoonshukla_per-capita-gdp-ppp-per-person\Metadata_Indicator_API_NY.GDP.PCAP.PP.CD_DS2_en_csv_v2_1068882.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+17,ukveteran_gdp-per-capita,../datasets\ukveteran_gdp-per-capita\gdp_per_capita_2020July.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+18,renatojmsantos_coimbra-2030,../datasets\renatojmsantos_coimbra-2030\territorios_sustentaveis.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+19,vladlee_worldgdpbycountry20002020,../datasets\vladlee_worldgdpbycountry20002020\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_3469429.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+20,dimanjung_government-debt-countrywise,../datasets\dimanjung_government-debt-countrywise\HPDD_06-13-2016 19-49-43-03_timeSeries.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+21,ahmedhelmey_average-wages-in-world,../datasets\ahmedhelmey_average-wages-in-world\DP_LIVE_13102022153115260.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+22,elarebhi_base-de-dones,../datasets\elarebhi_base-de-dones\Consommation finale des mnages par produit 10_12_2018 06_31_16.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+23,fanwang1996_gdp-and-satisfaction-relation,../datasets\fanwang1996_gdp-and-satisfaction-relation\oecd_bli_2015.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+24,muhbilal_dataeconomy,../datasets\muhbilal_dataeconomy\China_FTSE China 50 Historical Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+25,charlieevert_change-percent-change-of-gdp-1920-by-country,../datasets\charlieevert_change-percent-change-of-gdp-1920-by-country\Change   Change 19-20 GDP by Reporting Unit.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+26,vikarna_indonesia-inflation-dec-2002-april-2020,../datasets\vikarna_indonesia-inflation-dec-2002-april-2020\Indonesia_Inflation.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+27,savargaonkar_sf-zipcodes-limited,../datasets\savargaonkar_sf-zipcodes-limited\SFZ.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+28,luigigiugliano_bats-swifts-buildingplan,../datasets\luigigiugliano_bats-swifts-buildingplan\GEBIEDEN22 (1).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+29,luigigiugliano_bats-swifts-buildingplan,../datasets\luigigiugliano_bats-swifts-buildingplan\VLEERMUIS_VERBLIJF (1).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+30,luigigiugliano_bats-swifts-buildingplan,../datasets\luigigiugliano_bats-swifts-buildingplan\VOGELS (3).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+31,luigigiugliano_bats-swifts-buildingplan,../datasets\luigigiugliano_bats-swifts-buildingplan\WONINGBOUWPLANNEN (1).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+32,aaquibsiddiqui_usa-housing-dataset,../datasets\aaquibsiddiqui_usa-housing-dataset\USA_Housing.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+33,rithikkotha_elections-dataset-us,../datasets\rithikkotha_elections-dataset-us\Senate Dataset.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1965, in pandas._libs.parsers.raise_parser_error
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc7 in position 26970: ordinal not in range(128)
+"
+34,caiovms_tweets-about-brazilian-election-fake-news-2018,../datasets\caiovms_tweets-about-brazilian-election-fake-news-2018\tweets_checked.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 2 fields in line 656, saw 3
+
+"
+35,nischallal_nepal-election-2017-result,../datasets\nischallal_nepal-election-2017-result\pradesh_sabha.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+36,nischallal_nepal-election-2017-result,../datasets\nischallal_nepal-election-2017-result\pratinidhi_sabha.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+37,sandhyaavasthi_social-intelligence-scale2030age-groups,../datasets\sandhyaavasthi_social-intelligence-scale2030age-groups\Social Intelligence Scale.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+38,pragyanshusingh01_5000-constituency-and-dependency-trees,../datasets\pragyanshusingh01_5000-constituency-and-dependency-trees\cd_5000.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+39,yus002_capstone-data-nlp,../datasets\yus002_capstone-data-nlp\data_nlp.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+40,niramay_trumppolitifact,../datasets\niramay_trumppolitifact\politifact-trump.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+41,souren_delhi-election-result-2020,../datasets\souren_delhi-election-result-2020\DelhiResults.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+42,keyanovello_the-united-states-president-senator-list,../datasets\keyanovello_the-united-states-president-senator-list\USP senator list (2018 update).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1965, in pandas._libs.parsers.raise_parser_error
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc7 in position 40415: ordinal not in range(128)
+"
+43,jacksutcliffe_auckland-central-preliminary-results-2020-election,../datasets\jacksutcliffe_auckland-central-preliminary-results-2020-election\01_ElectionDay.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+44,borissobol_alamaba-1976-2020-election-results-by-county,../datasets\borissobol_alamaba-1976-2020-election-results-by-county\1976-2012.xls,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 456, in extract_attributes_to_df
+    data = Data(file)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data.py"", line 76, in __new__
+    data is not None or data_class.is_match(input_file_path, options_copy)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\graph_data.py"", line 155, in is_match
+    if not CSVData.is_match(file_path, options):
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 643, in is_match
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""C:\ProgramData\Anaconda3\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd0 in position 0: invalid continuation byte
+"
+45,hakeemnoe_fivethirtyeightcomicdataseth,../datasets\hakeemnoe_fivethirtyeightcomicdataseth\yugiCharacteresFriends.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+46,olamilekan011_nlp-for-yelp-data,../datasets\olamilekan011_nlp-for-yelp-data\._yelp.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+47,matinazad_canada-calgary-business-datasets,../datasets\matinazad_canada-calgary-business-datasets\anadas Top 100 Corporate RD Spenders 2020.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+48,matinazad_canada-calgary-business-datasets,../datasets\matinazad_canada-calgary-business-datasets\top-100-corporate-rd-spenders.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+49,danielewilliams_census-business-ownership,../datasets\danielewilliams_census-business-ownership\census_business_ownership_by_race_metadata.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+50,newsdataio_world-politics-news-dataset,../datasets\newsdataio_world-politics-news-dataset\World_Politics_News.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'int' and 'NoneType'
+"
+51,neechalkaran_tn-local-election-2022-results,../datasets\neechalkaran_tn-local-election-2022-results\Election data 2022 - Result.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+52,north151_npl-prictice,../datasets\north151_npl-prictice\test_new.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+53,jadjoumani_uk-war,../datasets\jadjoumani_uk-war\conflict_data_ukr.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+54,pranay969_gesture-recognition,../datasets\pranay969_gesture-recognition\train.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 480, saw 13
+
+"
+55,pranay969_gesture-recognition,../datasets\pranay969_gesture-recognition\val.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 63, saw 13
+
+"
+56,sureyasubramanian_dataset-for-coronavirus-casestudynlp,../datasets\sureyasubramanian_dataset-for-coronavirus-casestudynlp\tweets_coronavirus1.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+57,minangjn_historical-catches-1950-to-2010,../datasets\minangjn_historical-catches-1950-to-2010\ICES_1950-2010.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 890, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 1037, in pandas._libs.parsers.TextReader._convert_column_data
+  File ""pandas\_libs\parsers.pyx"", line 1068, in pandas._libs.parsers.TextReader._convert_tokens
+  File ""pandas\_libs\parsers.pyx"", line 1230, in pandas._libs.parsers.TextReader._convert_with_dtype
+  File ""pandas\_libs\parsers.pyx"", line 1246, in pandas._libs.parsers.TextReader._string_convert
+  File ""pandas\_libs\parsers.pyx"", line 1444, in pandas._libs.parsers._string_box_utf8
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe4 in position 14: invalid continuation byte
+"
+58,quan242_crawled,../datasets\quan242_crawled\test_shuffle.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+59,rracer17_tweetdata,../datasets\rracer17_tweetdata\biden_tweets_clean.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+60,rracer17_tweetdata,../datasets\rracer17_tweetdata\trump_tweets_clean.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+61,yussraawad_demographics,../datasets\yussraawad_demographics\Participant_table (2).csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+62,shujian_arxiv-nlp-papers-with-github-link,../datasets\shujian_arxiv-nlp-papers-with-github-link\201812_CL_Github.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"
+63,mafhhdeveolper_student-data,../datasets\mafhhdeveolper_student-data\Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+64,mafhhdeveolper_students-data,../datasets\mafhhdeveolper_students-data\a.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+65,kanikanarang94_mooc-kaggle-dataset,../datasets\kanikanarang94_mooc-kaggle-dataset\kaggle_student_clear.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 323, in read_csv_df
+    fo = pd.read_csv(file_path, **args)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 211, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\util\_decorators.py"", line 331, in wrapper
+    return func(*args, **kwargs)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 950, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1753, in _make_engine
+    return mapping[engine](f, **self.options)
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 79, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File ""pandas\_libs\parsers.pyx"", line 547, in pandas._libs.parsers.TextReader.__cinit__
+  File ""pandas\_libs\parsers.pyx"", line 636, in pandas._libs.parsers.TextReader._get_header
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1965, in pandas._libs.parsers.raise_parser_error
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 30397: ordinal not in range(128)
+"
+66,thomashthoresen_ntnu-courses,../datasets\thomashthoresen_ntnu-courses\course_descriptions.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+AttributeError: 'list' object has no attribute 'shape'
+"

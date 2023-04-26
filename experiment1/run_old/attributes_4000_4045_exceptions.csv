@@ -1,0 +1,36 @@
+,ref_no_slash,file_path,exception_str
+0,ashisparida_petrichor-forecasting-given-time-series-problem,../datasets\ashisparida_petrichor-forecasting-given-time-series-problem\Test_data_forecasting.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 344, in create_attributes_from_file_report
+    add_accuracy_attributes(attributes_dict, feature_stats)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 299, in add_accuracy_attributes
+    dict['avg_gini_impurity_categ_features'] += feature_stats['statistics']['gini_impurity']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"
+1,abhi8923shriv_worlduniversityrankings,../datasets\abhi8923shriv_worlduniversityrankings\education_expenditure_supplementary_data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 461, in extract_attributes_to_df
+    report = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 321, in create_profiler_report
+    sample_size = data.data.shape[0]
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\readers.py"", line 1778, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File ""C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 230, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 808, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 866, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 852, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1973, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+"

@@ -1,0 +1,108 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,248,syedsaqlainhussain_sql-injection-dataset,../datasets_50_100\syedsaqlainhussain_sql-injection-dataset\sqli.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""X:\Anaconda\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+"
+1,248,syedsaqlainhussain_sql-injection-dataset,../datasets_50_100\syedsaqlainhussain_sql-injection-dataset\sqliv2.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""X:\Anaconda\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+"
+2,276,usharengaraju_coursera-ipo-worldwide-trends,../datasets_50_100\usharengaraju_coursera-ipo-worldwide-trends\WebSearch_RelatedTopics.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+3,294,crawford_deepsat-sat4,../datasets_50_100\crawford_deepsat-sat4\X_train_sat4.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 880, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 1045, in pandas._libs.parsers.TextReader._convert_column_data
+MemoryError
+"
+4,296,tylerx_melbourne-airbnb-open-data,../datasets_50_100\tylerx_melbourne-airbnb-open-data\listings_dec18.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""X:\Anaconda\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa5 in position 10: invalid start byte
+"

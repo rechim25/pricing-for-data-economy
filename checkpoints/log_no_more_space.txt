@@ -1,0 +1,1947 @@
+590/1317 datasets already downloaded from given refs
+Downloading datasets mrmorj/political-advertisements-from-facebook of size 0.25 GB
+1/1317 Downloaded dataset mrmorj/political-advertisements-from-facebook in 51.90 s
+Downloading datasets mateusdmachado/csgo-professional-matches of size 0.04 GB
+3/1317 Downloaded dataset mateusdmachado/csgo-professional-matches in 5.71 s
+Downloading datasets qiriro/ieee-tac of size 1.29 GB
+4/1317 Downloaded dataset qiriro/ieee-tac in 86.37 s
+Downloading datasets aravindas01/ipl-2022dataset of size 0.00 GB
+6/1317 Downloaded dataset aravindas01/ipl-2022dataset in 0.71 s
+Downloading datasets prokaj/bert-joint-baseline of size 1.65 GB
+8/1317 Downloaded dataset prokaj/bert-joint-baseline in 186.30 s
+Downloading datasets suso172/arabic-natural-audio-dataset of size 0.59 GB
+9/1317 Downloaded dataset suso172/arabic-natural-audio-dataset in 80.57 s
+Downloading datasets usdot/freight-analysis-framework of size 0.31 GB
+11/1317 Downloaded dataset usdot/freight-analysis-framework in 37.56 s
+Downloading datasets lasaljaywardena/global-food-prices-dataset of size 0.01 GB
+15/1317 Downloaded dataset lasaljaywardena/global-food-prices-dataset in 3.52 s
+Downloading datasets kongaevans/speaker-recognition-dataset of size 0.24 GB
+17/1317 Downloaded dataset kongaevans/speaker-recognition-dataset in 40.14 s
+Downloading datasets rohanrao/riiid-train-data-multiple-formats of size 4.47 GB
+19/1317 Downloaded dataset rohanrao/riiid-train-data-multiple-formats in 592.85 s
+Downloading datasets raddar/ricord-covid19-xray-positive-tests of size 2.60 GB
+21/1317 Downloaded dataset raddar/ricord-covid19-xray-positive-tests in 268.33 s
+Downloading datasets nishanthsalian/indian-stock-index-1minute-data-2008-2020 of size 0.05 GB
+27/1317 Downloaded dataset nishanthsalian/indian-stock-index-1minute-data-2008-2020 in 7.84 s
+Downloading datasets veeralakrishna/butterfly-dataset of size 0.48 GB
+28/1317 Downloaded dataset veeralakrishna/butterfly-dataset in 49.42 s
+Downloading datasets adamschroeder/homelessness of size 0.00 GB
+30/1317 Downloaded dataset adamschroeder/homelessness in 1.06 s
+Downloading datasets cdeotte/512x512-melanoma-tfrecords-70k-images of size 4.90 GB
+31/1317 Downloaded dataset cdeotte/512x512-melanoma-tfrecords-70k-images in 504.40 s
+Downloading datasets saurabhshahane/fake-news-classification of size 0.10 GB
+32/1317 Downloaded dataset saurabhshahane/fake-news-classification in 12.97 s
+Downloading datasets fedesoriano/gender-pay-gap-dataset of size 0.06 GB
+33/1317 Downloaded dataset fedesoriano/gender-pay-gap-dataset in 10.00 s
+Downloading datasets altruistdelhite04/gold-price-data of size 0.00 GB
+35/1317 Downloaded dataset altruistdelhite04/gold-price-data in 0.55 s
+Downloading datasets johnjdavisiv/us-counties-covid19-weather-sociohealth-data of size 0.62 GB
+37/1317 Downloaded dataset johnjdavisiv/us-counties-covid19-weather-sociohealth-data in 81.72 s
+Downloading datasets rajanand/import-and-export-by-india of size 0.00 GB
+39/1317 Downloaded dataset rajanand/import-and-export-by-india in 1.03 s
+Downloading datasets meganrisdal/la-county-restaurant-inspections-and-violations of size 0.02 GB
+40/1317 Downloaded dataset meganrisdal/la-county-restaurant-inspections-and-violations in 5.07 s
+Downloading datasets juhi1994/superstore of size 0.00 GB
+42/1317 Downloaded dataset juhi1994/superstore in 0.77 s
+Downloading datasets stevezhenghp/airbnb-price-prediction of size 0.03 GB
+44/1317 Downloaded dataset stevezhenghp/airbnb-price-prediction in 6.60 s
+Downloading datasets theworldbank/world-bank-gdp-ranking of size 0.00 GB
+45/1317 Downloaded dataset theworldbank/world-bank-gdp-ranking in 0.62 s
+Downloading datasets harunshimanto/epileptic-seizure-recognition of size 0.00 GB
+47/1317 Downloaded dataset harunshimanto/epileptic-seizure-recognition in 0.95 s
+Downloading datasets burakhmmtgl/predict-molecular-properties of size 0.10 GB
+48/1317 Downloaded dataset burakhmmtgl/predict-molecular-properties in 19.66 s
+Downloading datasets mathurinache/nft-history-sales of size 0.00 GB
+49/1317 Downloaded dataset mathurinache/nft-history-sales in 0.56 s
+Downloading datasets bitandatom/social-network-fake-account-dataset of size 0.18 GB
+54/1317 Downloaded dataset bitandatom/social-network-fake-account-dataset in 30.97 s
+Downloading datasets jayrav13/olympic-track-field-results of size 0.00 GB
+55/1317 Downloaded dataset jayrav13/olympic-track-field-results in 0.78 s
+Downloading datasets jiriroz/qa-jokes of size 0.00 GB
+56/1317 Downloaded dataset jiriroz/qa-jokes in 1.13 s
+Downloading datasets selener/consumer-complaint-database of size 0.18 GB
+57/1317 Downloaded dataset selener/consumer-complaint-database in 28.65 s
+Downloading datasets devansodariya/football-fifa-2019-dataset of size 0.00 GB
+59/1317 Downloaded dataset devansodariya/football-fifa-2019-dataset in 1.21 s
+Downloading datasets ammarali32/startingpointschestx of size 0.70 GB
+60/1317 Downloaded dataset ammarali32/startingpointschestx in 81.94 s
+Downloading datasets krismurphy01/data-lab of size 0.00 GB
+61/1317 Downloaded dataset krismurphy01/data-lab in 0.66 s
+Downloading datasets ulrikthygepedersen/airlines-delay of size 0.01 GB
+62/1317 Downloaded dataset ulrikthygepedersen/airlines-delay in 1.68 s
+Downloading datasets mathchi/online-retail-data-set-from-ml-repository of size 0.00 GB
+63/1317 Downloaded dataset mathchi/online-retail-data-set-from-ml-repository in 0.56 s
+Downloading datasets chicago/chicago-food-inspections of size 0.05 GB
+64/1317 Downloaded dataset chicago/chicago-food-inspections in 7.05 s
+Downloading datasets pepepython/spotify-huge-database-daily-charts-over-3-years of size 0.20 GB
+65/1317 Downloaded dataset pepepython/spotify-huge-database-daily-charts-over-3-years in 30.69 s
+Downloading datasets shazadudwadia/supermarket of size 0.00 GB
+66/1317 Downloaded dataset shazadudwadia/supermarket in 0.56 s
+Downloading datasets luddarell/101-simple-linear-regressioncsv of size 0.00 GB
+67/1317 Downloaded dataset luddarell/101-simple-linear-regressioncsv in 0.50 s
+Downloading datasets junyiacademy/learning-activity-public-dataset-by-junyi-academy of size 1.62 GB
+69/1317 Downloaded dataset junyiacademy/learning-activity-public-dataset-by-junyi-academy in 199.54 s
+Downloading datasets rtatman/state-of-the-union-corpus-1989-2017 of size 0.01 GB
+70/1317 Downloaded dataset rtatman/state-of-the-union-corpus-1989-2017 in 2.92 s
+Downloading datasets vikasukani/parkinsons-disease-data-set of size 0.00 GB
+71/1317 Downloaded dataset vikasukani/parkinsons-disease-data-set in 0.54 s
+Downloading datasets lonnieqin/ubiquant-market-prediction-half-precision-pickle of size 1.56 GB
+75/1317 Downloaded dataset lonnieqin/ubiquant-market-prediction-half-precision-pickle in 177.78 s
+Downloading datasets cathetorres/geospatial-environmental-and-socioeconomic-data of size 2.45 GB
+76/1317 Downloaded dataset cathetorres/geospatial-environmental-and-socioeconomic-data in 255.47 s
+Downloading datasets arnabbiswas1/microsoft-azure-predictive-maintenance of size 0.03 GB
+77/1317 Downloaded dataset arnabbiswas1/microsoft-azure-predictive-maintenance in 4.47 s
+Downloading datasets louischen7/2020-digix-advertisement-ctr-prediction of size 1.29 GB
+79/1317 Downloaded dataset louischen7/2020-digix-advertisement-ctr-prediction in 205.33 s
+Downloading datasets kanishk307/6000-indian-food-recipes-dataset of size 0.01 GB
+80/1317 Downloaded dataset kanishk307/6000-indian-food-recipes-dataset in 2.10 s
+Downloading datasets leukipp/reddit-finance-data of size 0.43 GB
+81/1317 Downloaded dataset leukipp/reddit-finance-data in 55.31 s
+Downloading datasets muhammadkhalid/most-popular-programming-languages-since-2004 of size 0.00 GB
+82/1317 Downloaded dataset muhammadkhalid/most-popular-programming-languages-since-2004 in 0.52 s
+Downloading datasets mathijs/weather-data-in-new-york-city-2016 of size 0.00 GB
+86/1317 Downloaded dataset mathijs/weather-data-in-new-york-city-2016 in 0.52 s
+Downloading datasets crawford/cargo-2000-dataset of size 0.00 GB
+87/1317 Downloaded dataset crawford/cargo-2000-dataset in 0.96 s
+Downloading datasets uciml/internet-advertisements-data-set of size 0.00 GB
+88/1317 Downloaded dataset uciml/internet-advertisements-data-set in 0.83 s
+Downloading datasets jackywang529/toronto-bikeshare-data of size 0.06 GB
+89/1317 Downloaded dataset jackywang529/toronto-bikeshare-data in 13.51 s
+Downloading datasets prashant111/dataset of size 0.00 GB
+90/1317 Downloaded dataset prashant111/dataset in 1.04 s
+Downloading datasets ricardomoya/football-matches-of-spanish-league of size 0.00 GB
+94/1317 Downloaded dataset ricardomoya/football-matches-of-spanish-league in 0.79 s
+Downloading datasets afumetto/3dprinter of size 0.00 GB
+95/1317 Downloaded dataset afumetto/3dprinter in 0.77 s
+Downloading datasets nnair25/Alcoholics of size 0.30 GB
+96/1317 Downloaded dataset nnair25/Alcoholics in 45.74 s
+Downloading datasets kingabzpro/cosmetics-datasets of size 0.00 GB
+97/1317 Downloaded dataset kingabzpro/cosmetics-datasets in 0.95 s
+Downloading datasets datafiniti/vegetarian-vegan-restaurants of size 0.00 GB
+98/1317 Downloaded dataset datafiniti/vegetarian-vegan-restaurants in 1.06 s
+Downloading datasets vbmokin/nlp-with-disaster-tweets-cleaning-data of size 0.00 GB
+100/1317 Downloaded dataset vbmokin/nlp-with-disaster-tweets-cleaning-data in 0.76 s
+Downloading datasets tunguz/200000-jeopardy-questions of size 0.01 GB
+101/1317 Downloaded dataset tunguz/200000-jeopardy-questions in 2.29 s
+Downloading datasets anbarivan/indian-water-quality-data of size 0.00 GB
+103/1317 Downloaded dataset anbarivan/indian-water-quality-data in 0.47 s
+Downloading datasets sazid28/advertising.csv of size 0.00 GB
+104/1317 Downloaded dataset sazid28/advertising.csv in 0.52 s
+Downloading datasets kukuroo3/india-food-price-2000-2020 of size 0.00 GB
+109/1317 Downloaded dataset kukuroo3/india-food-price-2000-2020 in 0.73 s
+Downloading datasets kevinzmith/honey-with-neonic-pesticide of size 0.00 GB
+111/1317 Downloaded dataset kevinzmith/honey-with-neonic-pesticide in 0.58 s
+Downloading datasets gunner38/horseracing of size 0.00 GB
+113/1317 Downloaded dataset gunner38/horseracing in 0.77 s
+Downloading datasets nycparks/tree-census of size 0.13 GB
+114/1317 Downloaded dataset nycparks/tree-census in 17.54 s
+Downloading datasets jamesleslie/titanic-cleaned-data of size 0.00 GB
+115/1317 Downloaded dataset jamesleslie/titanic-cleaned-data in 0.61 s
+Downloading datasets hasibalmuzdadid/asia-cup-cricket-1984-to-2022 of size 0.00 GB
+117/1317 Downloaded dataset hasibalmuzdadid/asia-cup-cricket-1984-to-2022 in 0.60 s
+Downloading datasets murats/tabletpc-priceclassification of size 0.00 GB
+121/1317 Downloaded dataset murats/tabletpc-priceclassification in 0.50 s
+Downloading datasets harrimansaragih/dummy-advertising-and-sales-data of size 0.00 GB
+122/1317 Downloaded dataset harrimansaragih/dummy-advertising-and-sales-data in 0.53 s
+Downloading datasets toddsteussie/nfl-play-statistics-dataset-2004-to-present of size 0.14 GB
+123/1317 Downloaded dataset toddsteussie/nfl-play-statistics-dataset-2004-to-present in 21.93 s
+Downloading datasets stefanzivanov/olympic-games-2021-medals of size 0.00 GB
+124/1317 Downloaded dataset stefanzivanov/olympic-games-2021-medals in 0.51 s
+Downloading datasets karnikakapoor/sex-offender-registry of size 0.00 GB
+131/1317 Downloaded dataset karnikakapoor/sex-offender-registry in 0.67 s
+Downloading datasets adamschroeder/crimes-new-york-city of size 0.05 GB
+135/1317 Downloaded dataset adamschroeder/crimes-new-york-city in 7.65 s
+Downloading datasets anjanatiha/corona-virus-time-series-dataset of size 0.11 GB
+136/1317 Downloaded dataset anjanatiha/corona-virus-time-series-dataset in 17.14 s
+Downloading datasets whenamancodes/data-science-fields-salary-categorization of size 0.00 GB
+137/1317 Downloaded dataset whenamancodes/data-science-fields-salary-categorization in 0.58 s
+Downloading datasets nltkdata/movie-review of size 0.01 GB
+139/1317 Downloaded dataset nltkdata/movie-review in 5.82 s
+Downloading datasets washingtonpost/police-shootings of size 0.00 GB
+142/1317 Downloaded dataset washingtonpost/police-shootings in 0.56 s
+Downloading datasets mohamedkhaledelsafty/top-10-tech-subreddits of size 0.02 GB
+144/1317 Downloaded dataset mohamedkhaledelsafty/top-10-tech-subreddits in 3.98 s
+Downloading datasets anshulmehtakaggl/200000-abstracts-for-seq-sentence-classification of size 0.25 GB
+149/1317 Downloaded dataset anshulmehtakaggl/200000-abstracts-for-seq-sentence-classification in 34.95 s
+Downloading datasets rtatman/stopword-lists-for-19-languages of size 0.00 GB
+153/1317 Downloaded dataset rtatman/stopword-lists-for-19-languages in 0.80 s
+Downloading datasets gyejr95/tft-match-data of size 0.02 GB
+154/1317 Downloaded dataset gyejr95/tft-match-data in 4.29 s
+Downloading datasets rbansalasr/excel-data-file of size 0.00 GB
+156/1317 Downloaded dataset rbansalasr/excel-data-file in 0.53 s
+Downloading datasets priscillapun/crime-in-atlanta-2017 of size 0.00 GB
+158/1317 Downloaded dataset priscillapun/crime-in-atlanta-2017 in 0.99 s
+Downloading datasets crawford/deepsat-sat4 of size 3.20 GB
+159/1317 Downloaded dataset crawford/deepsat-sat4 in 376.28 s
+Downloading datasets uciml/msd-audio-features of size 0.21 GB
+160/1317 Downloaded dataset uciml/msd-audio-features in 25.55 s
+Downloading datasets google-brain/inception-v3 of size 0.10 GB
+161/1317 Downloaded dataset google-brain/inception-v3 in 10.81 s
+Downloading datasets rabhar/zomato-restaurants-in-india of size 0.02 GB
+166/1317 Downloaded dataset rabhar/zomato-restaurants-in-india in 3.24 s
+Downloading datasets dagnelies/deepfake-faces of size 0.45 GB
+169/1317 Downloaded dataset dagnelies/deepfake-faces in 202.81 s
+Downloading datasets theworldbank/international-debt-statistics of size 0.01 GB
+170/1317 Downloaded dataset theworldbank/international-debt-statistics in 2.66 s
+Downloading datasets imoore/us-covid19-dataset-live-hourlydaily-updates of size 0.03 GB
+172/1317 Downloaded dataset imoore/us-covid19-dataset-live-hourlydaily-updates in 6.33 s
+Downloading datasets ankitverma2010/ecommerce-customer-churn-analysis-and-prediction of size 0.00 GB
+173/1317 Downloaded dataset ankitverma2010/ecommerce-customer-churn-analysis-and-prediction in 1.01 s
+Downloading datasets fizzbuzz/cleaned-toxic-comments of size 0.05 GB
+174/1317 Downloaded dataset fizzbuzz/cleaned-toxic-comments in 10.88 s
+Downloading datasets uysalserkan/fault-induction-motor-dataset of size 2.59 GB
+176/1317 Downloaded dataset uysalserkan/fault-induction-motor-dataset in 336.96 s
+Downloading datasets vivovinco/league-of-legends-champion-stats of size 0.00 GB
+177/1317 Downloaded dataset vivovinco/league-of-legends-champion-stats in 0.59 s
+Downloading datasets maxjon/complete-tweet-sentiment-extraction-data of size 0.00 GB
+178/1317 Downloaded dataset maxjon/complete-tweet-sentiment-extraction-data in 1.56 s
+Downloading datasets michaelbryantds/cpu-and-gpu-product-data of size 0.00 GB
+179/1317 Downloaded dataset michaelbryantds/cpu-and-gpu-product-data in 0.88 s
+Downloading datasets deepann/80000-steam-games-dataset of size 0.10 GB
+182/1317 Downloaded dataset deepann/80000-steam-games-dataset in 14.83 s
+Downloading datasets rodolfofigueroa/spotify-12m-songs of size 0.10 GB
+183/1317 Downloaded dataset rodolfofigueroa/spotify-12m-songs in 20.74 s
+Downloading datasets nagarajbhat/australian-bush-fire-satellite-data-nasa of size 0.02 GB
+185/1317 Downloaded dataset nagarajbhat/australian-bush-fire-satellite-data-nasa in 3.29 s
+Downloading datasets mkechinov/ecommerce-purchase-history-from-electronics-store of size 0.05 GB
+186/1317 Downloaded dataset mkechinov/ecommerce-purchase-history-from-electronics-store in 9.18 s
+Downloading datasets mahnazarjmand/world-univercity-ranking of size 0.00 GB
+187/1317 Downloaded dataset mahnazarjmand/world-univercity-ranking in 0.55 s
+Downloading datasets anushonkar/network-anamoly-detection of size 0.00 GB
+190/1317 Downloaded dataset anushonkar/network-anamoly-detection in 1.60 s
+Downloading datasets scoleman/spacex-launch-data of size 0.00 GB
+191/1317 Downloaded dataset scoleman/spacex-launch-data in 0.80 s
+Downloading datasets gpreda/unemployment-in-european-union of size 0.00 GB
+192/1317 Downloaded dataset gpreda/unemployment-in-european-union in 0.96 s
+Downloading datasets jaykay12/odi-cricket-matches-19712017 of size 0.00 GB
+196/1317 Downloaded dataset jaykay12/odi-cricket-matches-19712017 in 0.69 s
+Downloading datasets marlesson/news-of-the-site-folhauol of size 0.20 GB
+197/1317 Downloaded dataset marlesson/news-of-the-site-folhauol in 24.72 s
+Downloading datasets dheerajperumandla/drowsiness-dataset of size 0.17 GB
+200/1317 Downloaded dataset dheerajperumandla/drowsiness-dataset in 26.70 s
+Downloading datasets lalish99/covid19-mx of size 0.01 GB
+201/1317 Downloaded dataset lalish99/covid19-mx in 4.34 s
+Downloading datasets gyejr95/league-of-legends-challenger-ranked-games2020 of size 0.01 GB
+203/1317 Downloaded dataset gyejr95/league-of-legends-challenger-ranked-games2020 in 2.68 s
+Downloading datasets lehaknarnauli/spotify-datasets of size 0.09 GB
+204/1317 Downloaded dataset lehaknarnauli/spotify-datasets in 10.63 s
+Downloading datasets hsinha53/car-sales of size 0.00 GB
+206/1317 Downloaded dataset hsinha53/car-sales in 0.59 s
+Downloading datasets shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection of size 0.00 GB
+207/1317 Downloaded dataset shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection in 0.56 s
+Downloading datasets romainvincent/history-of-hearthstone of size 0.02 GB
+211/1317 Downloaded dataset romainvincent/history-of-hearthstone in 3.23 s
+Downloading datasets jeet2016/us-financial-news-articles of size 1.24 GB
+212/1317 Downloaded dataset jeet2016/us-financial-news-articles in 695.50 s
+Downloading datasets vora1011/ipl-2008-to-2021-all-match-dataset of size 0.00 GB
+213/1317 Downloaded dataset vora1011/ipl-2008-to-2021-all-match-dataset in 1.27 s
+Downloading datasets securities-exchange-commission/financial-statement-extracts of size 0.35 GB
+218/1317 Downloaded dataset securities-exchange-commission/financial-statement-extracts in 68.07 s
+Downloading datasets claytonmiller/building-data-genome-project-v1 of size 0.05 GB
+219/1317 Downloaded dataset claytonmiller/building-data-genome-project-v1 in 8.48 s
+Downloading datasets vijayvvenkitesh/microsoft-stock-time-series-analysis of size 0.00 GB
+220/1317 Downloaded dataset vijayvvenkitesh/microsoft-stock-time-series-analysis in 0.77 s
+Downloading datasets lukebarousse/data-analyst-job-postings-google-search of size 0.02 GB
+221/1317 Downloaded dataset lukebarousse/data-analyst-job-postings-google-search in 3.47 s
+Downloading datasets usharengaraju/seismic of size 0.10 GB
+222/1317 Downloaded dataset usharengaraju/seismic in 11.70 s
+Downloading datasets rajugc/imdb-movies-dataset-based-on-genre of size 0.06 GB
+225/1317 Downloaded dataset rajugc/imdb-movies-dataset-based-on-genre in 7.70 s
+Downloading datasets yasserh/housing-prices-dataset of size 0.00 GB
+228/1317 Downloaded dataset yasserh/housing-prices-dataset in 0.60 s
+Downloading datasets rtatman/emojinet of size 0.00 GB
+229/1317 Downloaded dataset rtatman/emojinet in 0.99 s
+Downloading datasets vinchinzu/dc-metro-crime-data of size 0.02 GB
+231/1317 Downloaded dataset vinchinzu/dc-metro-crime-data in 3.44 s
+Downloading datasets akashkr/phishing-website-dataset of size 0.00 GB
+237/1317 Downloaded dataset akashkr/phishing-website-dataset in 0.56 s
+Downloading datasets census/international-data of size 0.85 GB
+238/1317 Downloaded dataset census/international-data in 123.92 s
+Downloading datasets usharengaraju/dynamically-generated-hate-speech-dataset of size 0.00 GB
+239/1317 Downloaded dataset usharengaraju/dynamically-generated-hate-speech-dataset in 1.11 s
+Downloading datasets sureshmecad/mens-shoe-prices of size 0.01 GB
+241/1317 Downloaded dataset sureshmecad/mens-shoe-prices in 2.20 s
+Downloading datasets crawford/1000-cameras-dataset of size 0.00 GB
+243/1317 Downloaded dataset crawford/1000-cameras-dataset in 0.82 s
+Downloading datasets vitaliymalcev/russian-passenger-air-service-20072020 of size 0.00 GB
+244/1317 Downloaded dataset vitaliymalcev/russian-passenger-air-service-20072020 in 0.56 s
+Downloading datasets dataturks/dataset-for-detection-of-cybertrolls of size 0.00 GB
+248/1317 Downloaded dataset dataturks/dataset-for-detection-of-cybertrolls in 1.07 s
+Downloading datasets deeiip/1m-real-time-stock-market-data-nse of size 0.04 GB
+250/1317 Downloaded dataset deeiip/1m-real-time-stock-market-data-nse in 8.17 s
+Downloading datasets epa/hazardous-air-pollutants of size 0.59 GB
+252/1317 Downloaded dataset epa/hazardous-air-pollutants in 92.50 s
+Downloading datasets pcbreviglieri/pneumonia-xray-images of size 1.23 GB
+254/1317 Downloaded dataset pcbreviglieri/pneumonia-xray-images in 139.32 s
+Downloading datasets iamsouravbanerjee/ipl-player-performance-dataset of size 0.00 GB
+256/1317 Downloaded dataset iamsouravbanerjee/ipl-player-performance-dataset in 1.24 s
+Downloading datasets carlthome/gtzan-genre-collection of size 1.23 GB
+257/1317 Downloaded dataset carlthome/gtzan-genre-collection in 135.69 s
+Downloading datasets ayessa/salary-prediction-classification of size 0.00 GB
+260/1317 Downloaded dataset ayessa/salary-prediction-classification in 0.82 s
+Downloading datasets succinctlyai/midjourney-texttoimage of size 0.05 GB
+261/1317 Downloaded dataset succinctlyai/midjourney-texttoimage in 15.73 s
+Downloading datasets knightbearr/pizza-price-prediction of size 0.00 GB
+263/1317 Downloaded dataset knightbearr/pizza-price-prediction in 0.59 s
+Downloading datasets srcole/burritos-in-san-diego of size 0.00 GB
+264/1317 Downloaded dataset srcole/burritos-in-san-diego in 0.59 s
+Downloading datasets aslanahmedov/market-basket-analysis of size 0.02 GB
+265/1317 Downloaded dataset aslanahmedov/market-basket-analysis in 3.87 s
+Downloading datasets ealtman2019/credit-card-transactions of size 0.28 GB
+266/1317 Downloaded dataset ealtman2019/credit-card-transactions in 46.06 s
+Downloading datasets rtatman/universal-product-code-database of size 0.02 GB
+267/1317 Downloaded dataset rtatman/universal-product-code-database in 4.22 s
+Downloading datasets hijest/cleaned-data-for-the-chatbot-collected-from-movies of size 0.32 GB
+268/1317 Downloaded dataset hijest/cleaned-data-for-the-chatbot-collected-from-movies in 40.26 s
+Downloading datasets tunguz/data-on-covid19-coronavirus of size 0.01 GB
+270/1317 Downloaded dataset tunguz/data-on-covid19-coronavirus in 3.27 s
+Downloading datasets drgilermo/nba-players-stats-20142015 of size 0.00 GB
+272/1317 Downloaded dataset drgilermo/nba-players-stats-20142015 in 0.57 s
+Downloading datasets srolka/ecommerce-customers of size 0.00 GB
+275/1317 Downloaded dataset srolka/ecommerce-customers in 1.06 s
+Downloading datasets cms/hospital-general-information of size 0.00 GB
+278/1317 Downloaded dataset cms/hospital-general-information in 0.67 s
+Downloading datasets kmader/lungnodemalignancy of size 0.10 GB
+279/1317 Downloaded dataset kmader/lungnodemalignancy in 12.51 s
+Downloading datasets rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba of size 0.00 GB
+282/1317 Downloaded dataset rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba in 0.63 s
+Downloading datasets avnishnish/mnist-original of size 0.01 GB
+284/1317 Downloaded dataset avnishnish/mnist-original in 2.70 s
+Downloading datasets azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats of size 0.00 GB
+286/1317 Downloaded dataset azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats in 0.86 s
+Downloading datasets irs/individual-income-tax-statistics of size 0.20 GB
+288/1317 Downloaded dataset irs/individual-income-tax-statistics in 32.60 s
+Downloading datasets mysarahmadbhat/120-years-of-olympic-history of size 0.01 GB
+289/1317 Downloaded dataset mysarahmadbhat/120-years-of-olympic-history in 1.52 s
+Downloading datasets vora1011/ipl-2022-match-dataset of size 0.00 GB
+291/1317 Downloaded dataset vora1011/ipl-2022-match-dataset in 0.64 s
+Downloading datasets elenacuoco/the-gravitational-waves-discovery-data of size 0.01 GB
+293/1317 Downloaded dataset elenacuoco/the-gravitational-waves-discovery-data in 1.69 s
+Downloading datasets stanfordu/stanford-natural-language-inference-corpus of size 0.05 GB
+296/1317 Downloaded dataset stanfordu/stanford-natural-language-inference-corpus in 7.95 s
+Downloading datasets daverosenman/nba-finals-team-stats of size 0.00 GB
+297/1317 Downloaded dataset daverosenman/nba-finals-team-stats in 0.74 s
+Downloading datasets zhangjuefei/death-metal of size 0.03 GB
+298/1317 Downloaded dataset zhangjuefei/death-metal in 4.21 s
+Downloading datasets oswinrh/indonesian-stoplist of size 0.00 GB
+300/1317 Downloaded dataset oswinrh/indonesian-stoplist in 0.48 s
+Downloading datasets kaggle/2015-notebook-ux-survey of size 0.00 GB
+302/1317 Downloaded dataset kaggle/2015-notebook-ux-survey in 0.81 s
+Downloading datasets mathchi/hitters-baseball-data of size 0.00 GB
+304/1317 Downloaded dataset mathchi/hitters-baseball-data in 0.80 s
+Downloading datasets ehallmar/points-of-interest-poi-database of size 0.09 GB
+306/1317 Downloaded dataset ehallmar/points-of-interest-poi-database in 11.84 s
+Downloading datasets tiwill/saham-idx of size 0.01 GB
+307/1317 Downloaded dataset tiwill/saham-idx in 3.99 s
+Downloading datasets antoinekrajnc/soccer-players-statistics of size 0.00 GB
+308/1317 Downloaded dataset antoinekrajnc/soccer-players-statistics in 1.08 s
+Downloading datasets humananalog/blazeface-pytorch of size 0.00 GB
+309/1317 Downloaded dataset humananalog/blazeface-pytorch in 0.85 s
+Downloading datasets surajjha101/top-defense-manufacturers of size 0.00 GB
+310/1317 Downloaded dataset surajjha101/top-defense-manufacturers in 0.76 s
+Downloading datasets frtgnn/football-coaching of size 0.00 GB
+312/1317 Downloaded dataset frtgnn/football-coaching in 0.58 s
+Downloading datasets mikejohnsonjr/united-states-crime-rates-by-county of size 0.00 GB
+316/1317 Downloaded dataset mikejohnsonjr/united-states-crime-rates-by-county in 0.58 s
+Downloading datasets freecodecamp/all-posts-public-main-chatroom of size 0.63 GB
+318/1317 Downloaded dataset freecodecamp/all-posts-public-main-chatroom in 92.75 s
+Downloading datasets tejashvi14/tour-travels-customer-churn-prediction of size 0.00 GB
+319/1317 Downloaded dataset tejashvi14/tour-travels-customer-churn-prediction in 0.57 s
+Downloading datasets tunguz/covid19-genomes of size 0.00 GB
+320/1317 Downloaded dataset tunguz/covid19-genomes in 0.90 s
+Downloading datasets new-york-city/ny-bus-breakdown-and-delays of size 0.01 GB
+322/1317 Downloaded dataset new-york-city/ny-bus-breakdown-and-delays in 2.58 s
+Downloading datasets ruchi798/star-wars of size 0.00 GB
+323/1317 Downloaded dataset ruchi798/star-wars in 0.54 s
+Downloading datasets bls/american-time-use-survey of size 0.26 GB
+324/1317 Downloaded dataset bls/american-time-use-survey in 42.69 s
+Downloading datasets mrisdal/married-at-first-sight of size 0.00 GB
+327/1317 Downloaded dataset mrisdal/married-at-first-sight in 0.53 s
+Downloading datasets yuval6967/gpt2-pytorch of size 0.00 GB
+328/1317 Downloaded dataset yuval6967/gpt2-pytorch in 1.15 s
+Downloading datasets canaria/5-gamers of size 0.18 GB
+329/1317 Downloaded dataset canaria/5-gamers in 25.97 s
+Downloading datasets wcukierski/2016-march-ml-mania of size 0.03 GB
+333/1317 Downloaded dataset wcukierski/2016-march-ml-mania in 6.23 s
+Downloading datasets nancyalaswad90/yamana-gold-inc-stock-price of size 0.00 GB
+336/1317 Downloaded dataset nancyalaswad90/yamana-gold-inc-stock-price in 0.62 s
+Downloading datasets upadorprofzs/testes of size 0.00 GB
+337/1317 Downloaded dataset upadorprofzs/testes in 0.75 s
+Downloading datasets valeriovaccaro/cryptocoinshistoricalprices of size 0.07 GB
+338/1317 Downloaded dataset valeriovaccaro/cryptocoinshistoricalprices in 11.54 s
+Downloading datasets skihikingkevin/online-p2p-lending of size 0.08 GB
+339/1317 Downloaded dataset skihikingkevin/online-p2p-lending in 13.63 s
+Downloading datasets gauravduttakiit/resume-dataset of size 0.00 GB
+345/1317 Downloaded dataset gauravduttakiit/resume-dataset in 0.86 s
+Downloading datasets iamsouravbanerjee/fifa-football-world-cup-dataset of size 0.00 GB
+346/1317 Downloaded dataset iamsouravbanerjee/fifa-football-world-cup-dataset in 0.81 s
+Downloading datasets mksaad/arabic-sentiment-twitter-corpus of size 0.02 GB
+350/1317 Downloaded dataset mksaad/arabic-sentiment-twitter-corpus in 84.34 s
+Downloading datasets kukuroo3/powerlifting-benchpress-weight-predict of size 0.00 GB
+352/1317 Downloaded dataset kukuroo3/powerlifting-benchpress-weight-predict in 0.96 s
+Downloading datasets shank885/knife-dataset of size 0.00 GB
+353/1317 Downloaded dataset shank885/knife-dataset in 1.98 s
+Downloading datasets kukuroo3/bts-youtube-channel-dataset-thumnails-img of size 0.05 GB
+354/1317 Downloaded dataset kukuroo3/bts-youtube-channel-dataset-thumnails-img in 7.99 s
+Downloading datasets austinreese/usa-housing-listings of size 0.11 GB
+356/1317 Downloaded dataset austinreese/usa-housing-listings in 17.85 s
+Downloading datasets fabdelja/autism-screening-for-toddlers of size 0.00 GB
+359/1317 Downloaded dataset fabdelja/autism-screening-for-toddlers in 0.67 s
+Downloading datasets nafisur/dataset-for-predictive-maintenance of size 0.00 GB
+360/1317 Downloaded dataset nafisur/dataset-for-predictive-maintenance in 1.23 s
+Downloading datasets supertaz/pretrained-bert-including-scripts of size 4.35 GB
+362/1317 Downloaded dataset supertaz/pretrained-bert-including-scripts in 470.61 s
+Downloading datasets aaronschlegel/seattle-pet-licenses of size 0.00 GB
+363/1317 Downloaded dataset aaronschlegel/seattle-pet-licenses in 0.76 s
+Downloading datasets mfaisalqureshi/hr-analytics-and-job-prediction of size 0.00 GB
+365/1317 Downloaded dataset mfaisalqureshi/hr-analytics-and-job-prediction in 0.90 s
+Downloading datasets ylchang/coffee-shop-sample-data-1113 of size 0.00 GB
+373/1317 Downloaded dataset ylchang/coffee-shop-sample-data-1113 in 0.64 s
+Downloading datasets mdepak/fakenewsnet of size 0.02 GB
+374/1317 Downloaded dataset mdepak/fakenewsnet in 2.82 s
+Downloading datasets ejlok1/cremad of size 0.47 GB
+375/1317 Downloaded dataset ejlok1/cremad in 67.82 s
+Downloading datasets andrewmvd/steam-reviews of size 0.72 GB
+379/1317 Downloaded dataset andrewmvd/steam-reviews in 103.46 s
+Downloading datasets alexisbcook/geospatial-learn-course-data of size 0.24 GB
+381/1317 Downloaded dataset alexisbcook/geospatial-learn-course-data in 33.14 s
+Downloading datasets karakaggle/kaggle-cat-vs-dog-dataset of size 0.83 GB
+382/1317 Downloaded dataset karakaggle/kaggle-cat-vs-dog-dataset in 129.84 s
+Downloading datasets PythonforSASUsers/hpindex of size 0.00 GB
+384/1317 Downloaded dataset PythonforSASUsers/hpindex in 1.16 s
+Downloading datasets muonneutrino/new-york-city-census-data of size 0.00 GB
+385/1317 Downloaded dataset muonneutrino/new-york-city-census-data in 0.76 s
+Downloading datasets slwessels/crime-statistics-for-south-africa of size 0.02 GB
+387/1317 Downloaded dataset slwessels/crime-statistics-for-south-africa in 3.23 s
+Downloading datasets luthfim/steam-reviews-dataset of size 0.04 GB
+388/1317 Downloaded dataset luthfim/steam-reviews-dataset in 7.90 s
+Downloading datasets vedavyasv/usa-housing of size 0.00 GB
+389/1317 Downloaded dataset vedavyasv/usa-housing in 0.79 s
+Downloading datasets odins0n/ai4code-custom-data of size 0.37 GB
+390/1317 Downloaded dataset odins0n/ai4code-custom-data in 51.57 s
+Downloading datasets ruchi798/covid19-pulmonary-abnormalities of size 0.14 GB
+391/1317 Downloaded dataset ruchi798/covid19-pulmonary-abnormalities in 26.26 s
+Downloading datasets gargmanas/movierecommenderdataset of size 0.00 GB
+392/1317 Downloaded dataset gargmanas/movierecommenderdataset in 1.01 s
+Downloading datasets shonenkov/weightedboxesfusion of size 0.00 GB
+393/1317 Downloaded dataset shonenkov/weightedboxesfusion in 1.05 s
+Downloading datasets babyoda/access-to-computers-from-home-oecd of size 0.00 GB
+395/1317 Downloaded dataset babyoda/access-to-computers-from-home-oecd in 0.75 s
+Downloading datasets kutlukatalay/2022-fifa-world-cup-predictions of size 0.00 GB
+398/1317 Downloaded dataset kutlukatalay/2022-fifa-world-cup-predictions in 0.87 s
+Downloading datasets paultimothymooney/poetry of size 0.00 GB
+406/1317 Downloaded dataset paultimothymooney/poetry in 1.46 s
+Downloading datasets goyalshalini93/car-data of size 0.00 GB
+408/1317 Downloaded dataset goyalshalini93/car-data in 0.81 s
+Downloading datasets abhishek/tez-lib of size 0.00 GB
+409/1317 Downloaded dataset abhishek/tez-lib in 0.94 s
+Downloading datasets threnjen/2019-airline-delays-and-cancellations of size 0.79 GB
+410/1317 Downloaded dataset threnjen/2019-airline-delays-and-cancellations in 124.16 s
+Downloading datasets studymart/car-driving-risk-analysis of size 0.00 GB
+411/1317 Downloaded dataset studymart/car-driving-risk-analysis in 0.55 s
+Downloading datasets cenkbircanoglu/comic-books-classification of size 2.44 GB
+412/1317 Downloaded dataset cenkbircanoglu/comic-books-classification in 249.11 s
+Downloading datasets mohamedkhaledelsafty/san-franciso-police-incidents of size 0.01 GB
+413/1317 Downloaded dataset mohamedkhaledelsafty/san-franciso-police-incidents in 1.42 s
+Downloading datasets hosubjeong/bakery-sales of size 0.00 GB
+415/1317 Downloaded dataset hosubjeong/bakery-sales in 0.56 s
+Downloading datasets shonenkov/timm-efficientdet-pytorch of size 0.00 GB
+417/1317 Downloaded dataset shonenkov/timm-efficientdet-pytorch in 0.91 s
+Downloading datasets zakarii/lofi-hip-hop-midi of size 0.00 GB
+419/1317 Downloaded dataset zakarii/lofi-hip-hop-midi in 1.21 s
+Downloading datasets andrewmvd/covid19-cough-audio-classification of size 1.33 GB
+421/1317 Downloaded dataset andrewmvd/covid19-cough-audio-classification in 264.71 s
+Downloading datasets seattle-public-library/seattle-library-checkout-records of size 2.51 GB
+423/1317 Downloaded dataset seattle-public-library/seattle-library-checkout-records in 349.77 s
+Downloading datasets konradb/iran-protests-2022-tweets of size 0.06 GB
+425/1317 Downloaded dataset konradb/iran-protests-2022-tweets in 9.25 s
+Downloading datasets shashwatwork/web-page-phishing-detection-dataset of size 0.00 GB
+426/1317 Downloaded dataset shashwatwork/web-page-phishing-detection-dataset in 0.91 s
+Downloading datasets mryanm/luflow-network-intrusion-detection-data-set of size 4.93 GB
+[Errno 28] No space left on device
+Got above exception on ref=mryanm/luflow-network-intrusion-detection-data-set
+Downloading datasets google-brain/nips-2017-adversarial-learning-development-set of size 0.15 GB
+[Errno 28] No space left on device
+Got above exception on ref=google-brain/nips-2017-adversarial-learning-development-set
+Downloading datasets baesiann/glomeruli-hubmap-external-1024x1024 of size 2.63 GB
+[Errno 28] No space left on device
+Got above exception on ref=baesiann/glomeruli-hubmap-external-1024x1024
+Downloading datasets abineshkumark/carsdata of size 0.00 GB
+434/1317 Downloaded dataset abineshkumark/carsdata in 0.95 s
+Downloading datasets morriswongch/kaggle-datasets of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=morriswongch/kaggle-datasets
+Downloading datasets theworldbank/poverty-and-equity-database of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=theworldbank/poverty-and-equity-database
+Downloading datasets coplin/traffic of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=coplin/traffic
+Downloading datasets ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text
+Downloading datasets gverzea/edible-wild-plants of size 0.80 GB
+[Errno 28] No space left on device
+Got above exception on ref=gverzea/edible-wild-plants
+Downloading datasets therohk/examine-the-examiner of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=therohk/examine-the-examiner
+Downloading datasets pralabhpoudel/alcohol-consumption-by-country of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=pralabhpoudel/alcohol-consumption-by-country
+Downloading datasets brunogrisci/breast-cancer-gene-expression-cumida of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=brunogrisci/breast-cancer-gene-expression-cumida
+Downloading datasets ekrembayar/fbi-crime-in-the-united-states of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ekrembayar/fbi-crime-in-the-united-states
+Downloading datasets aceofit/stockmarketdatafrom1996to2020 of size 2.47 GB
+[Errno 28] No space left on device
+Got above exception on ref=aceofit/stockmarketdatafrom1996to2020
+Downloading datasets shilongzhuang/telecom-customer-churn-by-maven-analytics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shilongzhuang/telecom-customer-churn-by-maven-analytics
+Downloading datasets artgor/lanl-features of size 0.10 GB
+[Errno 28] No space left on device
+Got above exception on ref=artgor/lanl-features
+Downloading datasets simiotic/ethereum-nfts of size 2.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=simiotic/ethereum-nfts
+Downloading datasets stefanoleone992/tripadvisor-european-restaurants of size 0.11 GB
+[Errno 28] No space left on device
+Got above exception on ref=stefanoleone992/tripadvisor-european-restaurants
+Downloading datasets gspmoreira/news-portal-user-interactions-by-globocom of size 0.38 GB
+[Errno 28] No space left on device
+Got above exception on ref=gspmoreira/news-portal-user-interactions-by-globocom
+Downloading datasets achrafkhazri/yolo-weights-for-licence-plate-detector of size 0.23 GB
+[Errno 28] No space left on device
+Got above exception on ref=achrafkhazri/yolo-weights-for-licence-plate-detector
+Downloading datasets sinamhd9/concrete-comprehensive-strength of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=sinamhd9/concrete-comprehensive-strength
+Downloading datasets balraj98/modelnet40-princeton-3d-object-dataset of size 2.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=balraj98/modelnet40-princeton-3d-object-dataset
+Downloading datasets kmader/dogs-of-zurich of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kmader/dogs-of-zurich
+Downloading datasets phalanx/petfinder2-cropped-dataset of size 1.32 GB
+[Errno 28] No space left on device
+Got above exception on ref=phalanx/petfinder2-cropped-dataset
+Downloading datasets hijest/genre-classification-dataset-imdb of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=hijest/genre-classification-dataset-imdb
+Downloading datasets deepcontractor/squid-game-netflix-twitter-data of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/squid-game-netflix-twitter-data
+Downloading datasets slawekbiel/sartorius-cell-instance-segmentation-coco of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=slawekbiel/sartorius-cell-instance-segmentation-coco
+Downloading datasets yamaerenay/spotify-dataset-19212020-600k-tracks of size 0.20 GB
+[Errno 28] No space left on device
+Got above exception on ref=yamaerenay/spotify-dataset-19212020-600k-tracks
+Downloading datasets puxama/bostoncsv of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=puxama/bostoncsv
+Downloading datasets koki25ando/22000-scotch-whisky-reviews of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=koki25ando/22000-scotch-whisky-reviews
+Downloading datasets berkayalan/2021-olympics-medals-in-tokyo of size 0.00 GB
+484/1317 Downloaded dataset berkayalan/2021-olympics-medals-in-tokyo in 0.55 s
+Downloading datasets ai-first/cocktail-ingredients of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ai-first/cocktail-ingredients
+Downloading datasets swaptr/layoffs-2022 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=swaptr/layoffs-2022
+Downloading datasets ruchi798/hindi-stopwords of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ruchi798/hindi-stopwords
+Downloading datasets kapilverma/hindi-bible of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=kapilverma/hindi-bible
+Downloading datasets cjroth/chronist of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=cjroth/chronist
+Downloading datasets azminetoushikwasi/epl-21-22-matches-players of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=azminetoushikwasi/epl-21-22-matches-players
+Downloading datasets susuwatari/ppp-loan-data-paycheck-protection-program of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=susuwatari/ppp-loan-data-paycheck-protection-program
+Downloading datasets simjeg/lymphoma-subtype-classification-fl-vs-cll of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=simjeg/lymphoma-subtype-classification-fl-vs-cll
+Downloading datasets rexhaif/emojifydata-en of size 0.93 GB
+[Errno 28] No space left on device
+Got above exception on ref=rexhaif/emojifydata-en
+Downloading datasets dev0914sharma/customer-clustering of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=dev0914sharma/customer-clustering
+Downloading datasets anasmahmood000/netflix-webseries-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=anasmahmood000/netflix-webseries-dataset
+Downloading datasets census/2013-american-community-survey of size 0.96 GB
+[Errno 28] No space left on device
+Got above exception on ref=census/2013-american-community-survey
+Downloading datasets dannielr/marvel-superheroes of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=dannielr/marvel-superheroes
+Downloading datasets sakhawat18/asteroid-dataset of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=sakhawat18/asteroid-dataset
+Downloading datasets bryanpark/japanese-single-speaker-speech-dataset of size 4.39 GB
+[Errno 28] No space left on device
+Got above exception on ref=bryanpark/japanese-single-speaker-speech-dataset
+Downloading datasets jacksonchou/hr-data-for-analytics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=jacksonchou/hr-data-for-analytics
+Downloading datasets shuofxz/titanic-machine-learning-from-disaster of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shuofxz/titanic-machine-learning-from-disaster
+Downloading datasets inIT-OWL/high-storage-system-data-for-energy-optimization of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=inIT-OWL/high-storage-system-data-for-energy-optimization
+Downloading datasets qks1lver/nasdaq-and-nyse-stocks-histories of size 0.88 GB
+[Errno 28] No space left on device
+Got above exception on ref=qks1lver/nasdaq-and-nyse-stocks-histories
+Downloading datasets ihormuliar/starbucks-customer-data of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=ihormuliar/starbucks-customer-data
+Downloading datasets saurabhshahane/bse-stocks-data-15-minute-interval-historical of size 0.11 GB
+[Errno 28] No space left on device
+Got above exception on ref=saurabhshahane/bse-stocks-data-15-minute-interval-historical
+Downloading datasets davidshinn/github-issues of size 1.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=davidshinn/github-issues
+Downloading datasets jboysen/us-traffic-2015 of size 0.47 GB
+[Errno 28] No space left on device
+Got above exception on ref=jboysen/us-traffic-2015
+Downloading datasets nypl/whats-on-the-menu of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=nypl/whats-on-the-menu
+Downloading datasets shivamb/bank-customer-segmentation of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=shivamb/bank-customer-segmentation
+Downloading datasets mayureshkoli/police-deaths-in-usa-from-1791-to-2022 of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=mayureshkoli/police-deaths-in-usa-from-1791-to-2022
+Downloading datasets juliancienfuegos/what-is-a-note of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=juliancienfuegos/what-is-a-note
+Downloading datasets rmisra/imdb-spoiler-dataset of size 0.35 GB
+[Errno 28] No space left on device
+Got above exception on ref=rmisra/imdb-spoiler-dataset
+Downloading datasets uciml/gas-sensor-array-under-dynamic-gas-mixtures of size 0.76 GB
+[Errno 28] No space left on device
+Got above exception on ref=uciml/gas-sensor-array-under-dynamic-gas-mixtures
+Downloading datasets devendra416/ddos-datasets of size 2.88 GB
+[Errno 28] No space left on device
+Got above exception on ref=devendra416/ddos-datasets
+Downloading datasets frtgnn/rural-residents-daily-mobile-phone-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=frtgnn/rural-residents-daily-mobile-phone-data
+Downloading datasets abhishek/transformers of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=abhishek/transformers
+Downloading datasets burakhmmtgl/energy-molecule of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=burakhmmtgl/energy-molecule
+Downloading datasets tysonpo/ice-cream-dataset of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=tysonpo/ice-cream-dataset
+Downloading datasets grafstor/simple-dialogs-for-chatbot of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=grafstor/simple-dialogs-for-chatbot
+Downloading datasets sanjeetsinghnaik/fifa-23-players-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=sanjeetsinghnaik/fifa-23-players-dataset
+Downloading datasets soheiltehranipour/digikala-comments-persian-sentiment-analysis of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=soheiltehranipour/digikala-comments-persian-sentiment-analysis
+Downloading datasets rajanand/ahs-woman-1 of size 1.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rajanand/ahs-woman-1
+Downloading datasets aditya276/face-mask-dataset-yolo-format of size 0.21 GB
+[Errno 28] No space left on device
+Got above exception on ref=aditya276/face-mask-dataset-yolo-format
+Downloading datasets open-source-sports/mens-professional-basketball of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=open-source-sports/mens-professional-basketball
+Downloading datasets varsharam/walmart-sales-dataset-of-45stores of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=varsharam/walmart-sales-dataset-of-45stores
+Downloading datasets mikuns/african-fabric of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=mikuns/african-fabric
+Downloading datasets afrniomelo/3w-dataset of size 0.69 GB
+[Errno 28] No space left on device
+Got above exception on ref=afrniomelo/3w-dataset
+Downloading datasets sid321axn/malicious-urls-dataset of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=sid321axn/malicious-urls-dataset
+Downloading datasets rootuser/worldnews-on-reddit of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=rootuser/worldnews-on-reddit
+Downloading datasets parulpandey/forbes-highest-paid-athletes-19902019 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=parulpandey/forbes-highest-paid-athletes-19902019
+Downloading datasets ruchi798/aiml-files of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ruchi798/aiml-files
+Downloading datasets nypd/vehicle-collisions of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=nypd/vehicle-collisions
+Downloading datasets qingyi/wm811k-wafer-map of size 0.16 GB
+[Errno 28] No space left on device
+Got above exception on ref=qingyi/wm811k-wafer-map
+Downloading datasets zusmani/pakistans-job-market of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=zusmani/pakistans-job-market
+Downloading datasets abiodunonadeji/united-state-superstore-sales of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=abiodunonadeji/united-state-superstore-sales
+Downloading datasets hetulmehta/website-classification of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=hetulmehta/website-classification
+Downloading datasets abhishek/pretrained-models of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=abhishek/pretrained-models
+Downloading datasets rtatman/us-candy-production-by-month of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/us-candy-production-by-month
+Downloading datasets quadeer15sh/premier-league-standings-11-seasons-20102021 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=quadeer15sh/premier-league-standings-11-seasons-20102021
+Downloading datasets ishaanv/ISLR-Auto of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ishaanv/ISLR-Auto
+Downloading datasets ultralytics/coco128 of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=ultralytics/coco128
+Downloading datasets nhs/general-practice-prescribing-data of size 1.74 GB
+[Errno 28] No space left on device
+Got above exception on ref=nhs/general-practice-prescribing-data
+Downloading datasets d4rklucif3r/restaurant-reviews of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=d4rklucif3r/restaurant-reviews
+Downloading datasets kmader/circadian-rhythm-in-the-brain of size 1.33 GB
+[Errno 28] No space left on device
+Got above exception on ref=kmader/circadian-rhythm-in-the-brain
+Downloading datasets akkithetechie/furniture-detector of size 0.24 GB
+[Errno 28] No space left on device
+Got above exception on ref=akkithetechie/furniture-detector
+Downloading datasets rtatman/german-sentiment-analysis-toolkit of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/german-sentiment-analysis-toolkit
+Downloading datasets robikscube/helmet-assignment-helpers of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=robikscube/helmet-assignment-helpers
+Downloading datasets syedjaferk/top-200-youtubers-cleaned of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=syedjaferk/top-200-youtubers-cleaned
+Downloading datasets theblackmamba31/landscape-image-colorization of size 0.20 GB
+[Errno 28] No space left on device
+Got above exception on ref=theblackmamba31/landscape-image-colorization
+Downloading datasets batjoker/zomato-restaurants-hyderabad of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=batjoker/zomato-restaurants-hyderabad
+Downloading datasets Madgrades/uw-madison-courses of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=Madgrades/uw-madison-courses
+Downloading datasets headsortails/train-stations-in-europe of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=headsortails/train-stations-in-europe
+Downloading datasets saivamshi/cricket-world-cup-2019-players-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=saivamshi/cricket-world-cup-2019-players-data
+Downloading datasets danielwillgeorge/glove6b100dtxt of size 0.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=danielwillgeorge/glove6b100dtxt
+Downloading datasets arenagrenade/the-complete-pokemon-images-data-set of size 0.12 GB
+[Errno 28] No space left on device
+Got above exception on ref=arenagrenade/the-complete-pokemon-images-data-set
+Downloading datasets benroshan/online-food-delivery-preferencesbangalore-region of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=benroshan/online-food-delivery-preferencesbangalore-region
+Downloading datasets alaix14/bitcoin-tweets-20160101-to-20190329 of size 1.70 GB
+[Errno 28] No space left on device
+Got above exception on ref=alaix14/bitcoin-tweets-20160101-to-20190329
+Downloading datasets open-flights/airline-database of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=open-flights/airline-database
+Downloading datasets gqfiddler/scotus-opinions of size 0.24 GB
+[Errno 28] No space left on device
+Got above exception on ref=gqfiddler/scotus-opinions
+Downloading datasets hellbuoy/online-retail-customer-clustering of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=hellbuoy/online-retail-customer-clustering
+Downloading datasets basilb2s/language-detection of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=basilb2s/language-detection
+Downloading datasets anshulmehtakaggl/top-1000-github-repositories-for-multiple-domains of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=anshulmehtakaggl/top-1000-github-repositories-for-multiple-domains
+Downloading datasets bulentsiyah/opencv-samples-images of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=bulentsiyah/opencv-samples-images
+Downloading datasets syahrulhamdani/indonesias-trending-youtube-video-statistics of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=syahrulhamdani/indonesias-trending-youtube-video-statistics
+Downloading datasets mukuldeshantri/ecommerce-fashion-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mukuldeshantri/ecommerce-fashion-dataset
+Downloading datasets tejashvi14/employee-future-prediction of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=tejashvi14/employee-future-prediction
+Downloading datasets benoit72/uk-accidents-10-years-history-with-many-variables of size 0.11 GB
+[Errno 28] No space left on device
+Got above exception on ref=benoit72/uk-accidents-10-years-history-with-many-variables
+Downloading datasets PromptCloudHQ/jobs-on-naukricom of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=PromptCloudHQ/jobs-on-naukricom
+Downloading datasets vivovinco/20212022-football-player-stats of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vivovinco/20212022-football-player-stats
+Downloading datasets noaa/severe-weather-data-inventory of size 0.18 GB
+[Errno 28] No space left on device
+Got above exception on ref=noaa/severe-weather-data-inventory
+Downloading datasets greeshmagirish/crime-against-women-20012014-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=greeshmagirish/crime-against-women-20012014-india
+Downloading datasets goldenoakresearch/acs-gross-rent-us-statistics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=goldenoakresearch/acs-gross-rent-us-statistics
+Downloading datasets robinreni/signature-verification-dataset of size 0.63 GB
+[Errno 28] No space left on device
+Got above exception on ref=robinreni/signature-verification-dataset
+Downloading datasets athniv/exercisepatternpredict of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=athniv/exercisepatternpredict
+Downloading datasets fschwartzer/tmd-dataset-5-seconds-sliding-window of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=fschwartzer/tmd-dataset-5-seconds-sliding-window
+Downloading datasets rishikeshkonapure/home-loan-approval of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rishikeshkonapure/home-loan-approval
+Downloading datasets arslanali4343/credit-card-cheating-detection-cccd of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=arslanali4343/credit-card-cheating-detection-cccd
+Downloading datasets kmader/helen-eye-dataset of size 0.46 GB
+[Errno 28] No space left on device
+Got above exception on ref=kmader/helen-eye-dataset
+Downloading datasets josephvm/major-league-soccer-dataset of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=josephvm/major-league-soccer-dataset
+Downloading datasets thedevastator/fast-food-restaurants-in-the-united-states of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/fast-food-restaurants-in-the-united-states
+Downloading datasets janmejaybhoi/cotton-disease-dataset of size 0.15 GB
+[Errno 28] No space left on device
+Got above exception on ref=janmejaybhoi/cotton-disease-dataset
+Downloading datasets whenamancodes/flight-delay-prediction of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=whenamancodes/flight-delay-prediction
+Downloading datasets mjamilmoughal/fruits-with-colors-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mjamilmoughal/fruits-with-colors-dataset
+Downloading datasets psycon/world-development-indicators of size 0.33 GB
+[Errno 28] No space left on device
+Got above exception on ref=psycon/world-development-indicators
+Downloading datasets dell4010/wine-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=dell4010/wine-dataset
+Downloading datasets shariful07/student-flexibility-in-online-learning of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shariful07/student-flexibility-in-online-learning
+Downloading datasets arashnic/hr-ana of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=arashnic/hr-ana
+Downloading datasets thedevastator/supermarket-ordering-invoicing-and-sales-analysi of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/supermarket-ordering-invoicing-and-sales-analysi
+Downloading datasets ghopkins/nba-injuries-2010-2018 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ghopkins/nba-injuries-2010-2018
+Downloading datasets sohier/crime-in-baltimore of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=sohier/crime-in-baltimore
+Downloading datasets kritanjalijain/amazon-reviews of size 1.39 GB
+[Errno 28] No space left on device
+Got above exception on ref=kritanjalijain/amazon-reviews
+Downloading datasets gasgallo/faces-data-new of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=gasgallo/faces-data-new
+Downloading datasets alexandrparkhomenko/top-apps-in-google-play of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=alexandrparkhomenko/top-apps-in-google-play
+Downloading datasets surajjha101/india-merchandize-trade-fiscal-year-2022-updated of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=surajjha101/india-merchandize-trade-fiscal-year-2022-updated
+Downloading datasets shubhamptrivedi/world-development-indicators-for-india1960to2021 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shubhamptrivedi/world-development-indicators-for-india1960to2021
+Downloading datasets assopavic/recommendation-system-for-angers-smart-city of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=assopavic/recommendation-system-for-angers-smart-city
+Downloading datasets raylo168/dash-yrbss-hs-2017 of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=raylo168/dash-yrbss-hs-2017
+Downloading datasets frtgnn/rock-paper-scissor of size 0.23 GB
+[Errno 28] No space left on device
+Got above exception on ref=frtgnn/rock-paper-scissor
+Downloading datasets divyansh22/friends-tv-show-script of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=divyansh22/friends-tv-show-script
+Downloading datasets deepcontractor/200k-short-texts-for-humor-detection of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/200k-short-texts-for-humor-detection
+Downloading datasets nhtsa/2015-traffic-fatalities of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=nhtsa/2015-traffic-fatalities
+Downloading datasets alvations/old-newspapers of size 2.20 GB
+[Errno 28] No space left on device
+Got above exception on ref=alvations/old-newspapers
+Downloading datasets mrsantos/hcc-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mrsantos/hcc-dataset
+Downloading datasets navoneel/fta-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=navoneel/fta-data
+Downloading datasets erikbruin/airbnb-amsterdam of size 0.10 GB
+[Errno 28] No space left on device
+Got above exception on ref=erikbruin/airbnb-amsterdam
+Downloading datasets zurfer/rtb of size 0.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=zurfer/rtb
+Downloading datasets birdy654/eeg-brainwave-dataset-mental-state of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=birdy654/eeg-brainwave-dataset-mental-state
+Downloading datasets aakash50897/churn-modellingcsv of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=aakash50897/churn-modellingcsv
+Downloading datasets jannesklaas/scifi-stories-text-corpus of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=jannesklaas/scifi-stories-text-corpus
+Downloading datasets ryanholbrook/car-or-truck of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=ryanholbrook/car-or-truck
+Downloading datasets mohamedbakhet/amazon-books-reviews of size 1.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=mohamedbakhet/amazon-books-reviews
+Downloading datasets theoviel/rsna-breast-cancer-512-pngs of size 3.76 GB
+[Errno 28] No space left on device
+Got above exception on ref=theoviel/rsna-breast-cancer-512-pngs
+Downloading datasets vivovinco/football-analytics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vivovinco/football-analytics
+Downloading datasets soumikrakshit/classical-music-midi of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=soumikrakshit/classical-music-midi
+Downloading datasets Eruditepanda/fortune-1000-2018 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=Eruditepanda/fortune-1000-2018
+Downloading datasets deepcontractor/cyber-security-salaries of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/cyber-security-salaries
+Downloading datasets vivovinco/20222023-football-player-stats of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vivovinco/20222023-football-player-stats
+Downloading datasets gargmanas/pima-indians-diabetes of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=gargmanas/pima-indians-diabetes
+Downloading datasets dryad/human-mobility-during-natural-disasters of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=dryad/human-mobility-during-natural-disasters
+Downloading datasets yutkin/corpus-of-russian-news-articles-from-lenta of size 0.61 GB
+[Errno 28] No space left on device
+Got above exception on ref=yutkin/corpus-of-russian-news-articles-from-lenta
+Downloading datasets felipekitamura/head-ct-hemorrhage of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=felipekitamura/head-ct-hemorrhage
+Downloading datasets parulpandey/us-international-air-traffic-data of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=parulpandey/us-international-air-traffic-data
+Downloading datasets mitesh58/bollywood-movie-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mitesh58/bollywood-movie-dataset
+Downloading datasets thedevastator/airplane-crashes-and-fatalities of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/airplane-crashes-and-fatalities
+Downloading datasets omercolakoglu/car-db-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=omercolakoglu/car-db-dataset
+Downloading datasets hemil26/world-happiness-report-2022 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=hemil26/world-happiness-report-2022
+Downloading datasets nilimajauhari/glassdoor-analyze-gender-pay-gap of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=nilimajauhari/glassdoor-analyze-gender-pay-gap
+Downloading datasets muhammadimran112233/employees-evaluation-for-promotion of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=muhammadimran112233/employees-evaluation-for-promotion
+Downloading datasets unitednations/un-general-debates of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=unitednations/un-general-debates
+Downloading datasets rtatman/iris-dataset-json-version of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/iris-dataset-json-version
+Downloading datasets IHME/us-countylevel-mortality of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=IHME/us-countylevel-mortality
+Downloading datasets colearninglounge/employee-attrition of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=colearninglounge/employee-attrition
+Downloading datasets arroqc/siic-isic-224x224-images of size 3.52 GB
+[Errno 28] No space left on device
+Got above exception on ref=arroqc/siic-isic-224x224-images
+Downloading datasets blackmoon/russian-language-toxic-comments of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=blackmoon/russian-language-toxic-comments
+Downloading datasets ananta/student-performance-dataset of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=ananta/student-performance-dataset
+Downloading datasets mpwolke/cusersmarildownloadsswimmingcsv of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mpwolke/cusersmarildownloadsswimmingcsv
+Downloading datasets notshrirang/spotify-million-song-dataset of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=notshrirang/spotify-million-song-dataset
+Downloading datasets jainilcoder/online-payment-fraud-detection of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=jainilcoder/online-payment-fraud-detection
+Downloading datasets animatronbot/mnist-digit-recognizer of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=animatronbot/mnist-digit-recognizer
+Downloading datasets vardhansiramdasu/fraudulent-transactions-prediction of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=vardhansiramdasu/fraudulent-transactions-prediction
+Downloading datasets azminetoushikwasi/-lionel-messi-all-club-goals of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=azminetoushikwasi/-lionel-messi-all-club-goals
+Downloading datasets ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes
+Downloading datasets kashnitsky/jigsaw-multilingual-toxic-test-translated of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=kashnitsky/jigsaw-multilingual-toxic-test-translated
+Downloading datasets davinwijaya/customer-retention of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=davinwijaya/customer-retention
+Downloading datasets spacex/spacex-missions of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=spacex/spacex-missions
+Downloading datasets salmaneunus/railway-track-fault-detection of size 2.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=salmaneunus/railway-track-fault-detection
+Downloading datasets alukosayoenoch/cyber-security-breaches-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=alukosayoenoch/cyber-security-breaches-data
+Downloading datasets zhangyunsheng/defects-class-and-location of size 0.97 GB
+[Errno 28] No space left on device
+Got above exception on ref=zhangyunsheng/defects-class-and-location
+Downloading datasets usharengaraju/pheme-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=usharengaraju/pheme-dataset
+Downloading datasets xhlulu/siim-covid19-resized-to-256px-jpg of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=xhlulu/siim-covid19-resized-to-256px-jpg
+Downloading datasets chadgostopp/recsys-challenge-2015 of size 0.88 GB
+[Errno 28] No space left on device
+Got above exception on ref=chadgostopp/recsys-challenge-2015
+Downloading datasets anandhuh/data-science-jobs-in-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=anandhuh/data-science-jobs-in-india
+Downloading datasets snehaanbhawal/resume-dataset of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=snehaanbhawal/resume-dataset
+Downloading datasets mahendran1/icc-cricket of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mahendran1/icc-cricket
+Downloading datasets timoboz/country-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=timoboz/country-data
+Downloading datasets thedevastator/uncovering-factors-that-affect-used-car-prices of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/uncovering-factors-that-affect-used-car-prices
+Downloading datasets fedesoriano/spanish-wine-quality-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=fedesoriano/spanish-wine-quality-dataset
+Downloading datasets apoorvaappz/global-super-store-dataset of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=apoorvaappz/global-super-store-dataset
+Downloading datasets headsortails/us-election-2020-presidential-debates of size 0.46 GB
+[Errno 28] No space left on device
+Got above exception on ref=headsortails/us-election-2020-presidential-debates
+Downloading datasets kmader/eye-oct-datasets of size 0.58 GB
+[Errno 28] No space left on device
+Got above exception on ref=kmader/eye-oct-datasets
+Downloading datasets aubertsigouin/biximtl of size 0.17 GB
+[Errno 28] No space left on device
+Got above exception on ref=aubertsigouin/biximtl
+Downloading datasets solarmainframe/ids-intrusion-csv of size 1.72 GB
+[Errno 28] No space left on device
+Got above exception on ref=solarmainframe/ids-intrusion-csv
+Downloading datasets epattaro/brazils-house-of-deputies-reimbursements of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=epattaro/brazils-house-of-deputies-reimbursements
+Downloading datasets tmcketterick/heights-and-weights of size 0.00 GB
+804/1317 Downloaded dataset tmcketterick/heights-and-weights in 0.77 s
+Downloading datasets rojour/boston-results of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rojour/boston-results
+Downloading datasets ahmedmoorsy/facial-expression of size 0.20 GB
+[Errno 28] No space left on device
+Got above exception on ref=ahmedmoorsy/facial-expression
+Downloading datasets nikitarom/planets-dataset of size 1.61 GB
+[Errno 28] No space left on device
+Got above exception on ref=nikitarom/planets-dataset
+Downloading datasets muhammedtausif/military-size-by-country-2022 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=muhammedtausif/military-size-by-country-2022
+Downloading datasets ekrembayar/premier-league-match-reports-20192020 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ekrembayar/premier-league-match-reports-20192020
+Downloading datasets mchilamwar/predict-concrete-strength of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=mchilamwar/predict-concrete-strength
+Downloading datasets roysouravcu/forbes-billionaires-of-2021 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=roysouravcu/forbes-billionaires-of-2021
+Downloading datasets mswarbrickjones/reddit-selfposts of size 0.37 GB
+[Errno 28] No space left on device
+Got above exception on ref=mswarbrickjones/reddit-selfposts
+Downloading datasets easonlai/sample-insurance-claim-prediction-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=easonlai/sample-insurance-claim-prediction-dataset
+Downloading datasets koki25ando/salary of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=koki25ando/salary
+Downloading datasets septa97/100k-courseras-course-reviews-dataset of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=septa97/100k-courseras-course-reviews-dataset
+Downloading datasets deepcontractor/australian-fatal-car-accident-data-19892021 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/australian-fatal-car-accident-data-19892021
+Downloading datasets sijovm/atpdata of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=sijovm/atpdata
+Downloading datasets arslanali4343/top-song-daily-ranking-of-spotifys of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=arslanali4343/top-song-daily-ranking-of-spotifys
+Downloading datasets ramirobentes/flights-in-brazil of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=ramirobentes/flights-in-brazil
+Downloading datasets deepankurk/up-crime-data-year-2019 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepankurk/up-crime-data-year-2019
+Downloading datasets rtatman/the-national-university-of-singapore-sms-corpus of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/the-national-university-of-singapore-sms-corpus
+Downloading datasets frtgnn/minimum-wages-between-2001-2018 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=frtgnn/minimum-wages-between-2001-2018
+Downloading datasets cdeotte/jpeg-melanoma-256x256 of size 0.83 GB
+[Errno 28] No space left on device
+Got above exception on ref=cdeotte/jpeg-melanoma-256x256
+Downloading datasets sohier/seattle-police-department-911-incident-response of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=sohier/seattle-police-department-911-incident-response
+Downloading datasets dylanli/chinesecharacter of size 0.12 GB
+[Errno 28] No space left on device
+Got above exception on ref=dylanli/chinesecharacter
+Downloading datasets rtatman/deceptive-opinion-spam-corpus of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/deceptive-opinion-spam-corpus
+Downloading datasets podsyp/how-to-do-product-analytics of size 0.48 GB
+[Errno 28] No space left on device
+Got above exception on ref=podsyp/how-to-do-product-analytics
+Downloading datasets rishabhiitbhu/pretrainedmodels of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rishabhiitbhu/pretrainedmodels
+Downloading datasets chicago/chicago-red-light-and-speed-camera-data of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=chicago/chicago-red-light-and-speed-camera-data
+Downloading datasets dhruvildave/covid19-deaths-dataset of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=dhruvildave/covid19-deaths-dataset
+Downloading datasets sgpjesus/bank-account-fraud-dataset-neurips-2022 of size 0.57 GB
+[Errno 28] No space left on device
+Got above exception on ref=sgpjesus/bank-account-fraud-dataset-neurips-2022
+Downloading datasets rgupta09/world-cup-2018-tweets of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=rgupta09/world-cup-2018-tweets
+Downloading datasets inIT-OWL/versatileproductionsystem of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=inIT-OWL/versatileproductionsystem
+Downloading datasets pranav941/-world-food-wealth-bank of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=pranav941/-world-food-wealth-bank
+Downloading datasets yeanzc/telco-customer-churn-ibm-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=yeanzc/telco-customer-churn-ibm-dataset
+Downloading datasets inancigdem/eeg-data-for-mental-attention-state-detection of size 0.58 GB
+[Errno 28] No space left on device
+Got above exception on ref=inancigdem/eeg-data-for-mental-attention-state-detection
+Downloading datasets tylerx/melbourne-airbnb-open-data of size 0.13 GB
+[Errno 28] No space left on device
+Got above exception on ref=tylerx/melbourne-airbnb-open-data
+Downloading datasets akmittal/quotes-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=akmittal/quotes-dataset
+Downloading datasets ajinkyablaze/football-manager-data of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=ajinkyablaze/football-manager-data
+Downloading datasets swathiachath/kc-housesales-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=swathiachath/kc-housesales-data
+Downloading datasets devansodariya/road-accident-united-kingdom-uk-dataset of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=devansodariya/road-accident-united-kingdom-uk-dataset
+Downloading datasets shekpaul/global-superstore of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=shekpaul/global-superstore
+Downloading datasets epa/air-quality of size 0.31 GB
+[Errno 28] No space left on device
+Got above exception on ref=epa/air-quality
+Downloading datasets zusmani/family-genome-dataset of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=zusmani/family-genome-dataset
+Downloading datasets taejoongyoon/mitbit-arrhythmia-database of size 0.30 GB
+[Errno 28] No space left on device
+Got above exception on ref=taejoongyoon/mitbit-arrhythmia-database
+Downloading datasets atulanandjha/imdb-50k-movie-reviews-test-your-bert of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=atulanandjha/imdb-50k-movie-reviews-test-your-bert
+Downloading datasets sumitrodatta/nba-aba-baa-stats of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=sumitrodatta/nba-aba-baa-stats
+Downloading datasets university-of-edinburgh/peace-agreements-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=university-of-edinburgh/peace-agreements-dataset
+Downloading datasets iafoss/hubmap-256x256 of size 1.32 GB
+[Errno 28] No space left on device
+Got above exception on ref=iafoss/hubmap-256x256
+Downloading datasets davinwijaya/employee-turnover of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=davinwijaya/employee-turnover
+Downloading datasets freecodecamp/2016-new-coder-survey- of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=freecodecamp/2016-new-coder-survey-
+Downloading datasets rtatman/120-million-word-spanish-corpus of size 0.51 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/120-million-word-spanish-corpus
+Downloading datasets PromptCloudHQ/us-technology-jobs-on-dicecom of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=PromptCloudHQ/us-technology-jobs-on-dicecom
+Downloading datasets kokitanisaka/indoorunifiedwifids of size 0.49 GB
+[Errno 28] No space left on device
+Got above exception on ref=kokitanisaka/indoorunifiedwifids
+Downloading datasets tunguz/used-car-auction-prices of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=tunguz/used-car-auction-prices
+Downloading datasets antaresnyc/metagenomics of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=antaresnyc/metagenomics
+Downloading datasets fabiochiusano/medium-articles of size 0.39 GB
+[Errno 28] No space left on device
+Got above exception on ref=fabiochiusano/medium-articles
+Downloading datasets pvlima/pretrained-pytorch-models of size 0.36 GB
+[Errno 28] No space left on device
+Got above exception on ref=pvlima/pretrained-pytorch-models
+Downloading datasets gunjanpathak/melb-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=gunjanpathak/melb-data
+Downloading datasets atahmasb/amazon-job-skills of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=atahmasb/amazon-job-skills
+Downloading datasets timesler/facenet-pytorch-vggface2 of size 0.12 GB
+[Errno 28] No space left on device
+Got above exception on ref=timesler/facenet-pytorch-vggface2
+Downloading datasets ethon0426/lending-club-20072020q1 of size 0.51 GB
+[Errno 28] No space left on device
+Got above exception on ref=ethon0426/lending-club-20072020q1
+Downloading datasets akashguna/netflix-prize-shows-information of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=akashguna/netflix-prize-shows-information
+Downloading datasets iamsouravbanerjee/customer-segmentation-51k-records of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=iamsouravbanerjee/customer-segmentation-51k-records
+Downloading datasets charlieharper/spatial-data-for-cord19-covid19-ordc of size 0.36 GB
+[Errno 28] No space left on device
+Got above exception on ref=charlieharper/spatial-data-for-cord19-covid19-ordc
+Downloading datasets tonypriyanka2913/employee-absenteeism of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=tonypriyanka2913/employee-absenteeism
+Downloading datasets joniarroba/65-world-indexes-gathered of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=joniarroba/65-world-indexes-gathered
+Downloading datasets theriley106/university-statistics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=theriley106/university-statistics
+Downloading datasets promptcloud/jobs-on-naukricom of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=promptcloud/jobs-on-naukricom
+Downloading datasets xhlulu/densenet-keras of size 0.39 GB
+[Errno 28] No space left on device
+Got above exception on ref=xhlulu/densenet-keras
+Downloading datasets nehaprabhavalkar/crime-in-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=nehaprabhavalkar/crime-in-india
+Downloading datasets zernach/2018-airplane-flights of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=zernach/2018-airplane-flights
+Downloading datasets alphaepsilon/housing-prices-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=alphaepsilon/housing-prices-dataset
+Downloading datasets vittoriogiatti/bigmacprice of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vittoriogiatti/bigmacprice
+Downloading datasets nsidcorg/daily-sea-ice-extent-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=nsidcorg/daily-sea-ice-extent-data
+Downloading datasets jpayne/852k-used-car-listings of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=jpayne/852k-used-car-listings
+Downloading datasets zhangluyuan/ab-testing of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=zhangluyuan/ab-testing
+Downloading datasets theworldbank/world-gender-statistics of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=theworldbank/world-gender-statistics
+Downloading datasets shtrausslearning/external-cfd-aero of size 2.85 GB
+[Errno 28] No space left on device
+Got above exception on ref=shtrausslearning/external-cfd-aero
+Downloading datasets chicago/chicago-taxi-rides-2016 of size 0.49 GB
+[Errno 28] No space left on device
+Got above exception on ref=chicago/chicago-taxi-rides-2016
+Downloading datasets andrewmvd/spotify-playlists of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=andrewmvd/spotify-playlists
+Downloading datasets pranav941/evolution-of-smartphones of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=pranav941/evolution-of-smartphones
+Downloading datasets rtatman/world-language-family-map of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/world-language-family-map
+Downloading datasets imrankhan17/t20matches of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=imrankhan17/t20matches
+Downloading datasets geonames/geonames-database of size 0.34 GB
+[Errno 28] No space left on device
+Got above exception on ref=geonames/geonames-database
+Downloading datasets rupakroy/online-payments-fraud-detection-dataset of size 0.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=rupakroy/online-payments-fraud-detection-dataset
+Downloading datasets ramjasmaurya/kerala-crime-records-2016-aug-2022 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ramjasmaurya/kerala-crime-records-2016-aug-2022
+Downloading datasets douglaskgaraujo/opportunity-insights-real-time-economic-tracker-us of size 0.18 GB
+[Errno 28] No space left on device
+Got above exception on ref=douglaskgaraujo/opportunity-insights-real-time-economic-tracker-us
+Downloading datasets rohanrao/sudoku of size 0.65 GB
+[Errno 28] No space left on device
+Got above exception on ref=rohanrao/sudoku
+Downloading datasets mkachuee/noninvasivebp of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=mkachuee/noninvasivebp
+Downloading datasets mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot of size 1.75 GB
+[Errno 28] No space left on device
+Got above exception on ref=mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot
+Downloading datasets cdeotte/malware-timestamps of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=cdeotte/malware-timestamps
+Downloading datasets pranav941/russia-to-world-trade14m-data-points of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=pranav941/russia-to-world-trade14m-data-points
+Downloading datasets PromptCloudHQ/us-jobs-on-monstercom of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=PromptCloudHQ/us-jobs-on-monstercom
+Downloading datasets saurabhshahane/bse-stocks-data-5-minute-interval-historical of size 0.33 GB
+[Errno 28] No space left on device
+Got above exception on ref=saurabhshahane/bse-stocks-data-5-minute-interval-historical
+Downloading datasets usharengaraju/bostonhousing-modin of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=usharengaraju/bostonhousing-modin
+Downloading datasets shawon10/url-classification-dataset-dmoz of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=shawon10/url-classification-dataset-dmoz
+Downloading datasets pybear/cats-vs-dogs of size 0.83 GB
+[Errno 28] No space left on device
+Got above exception on ref=pybear/cats-vs-dogs
+Downloading datasets ryanholbrook/dl-course-data of size 0.24 GB
+[Errno 28] No space left on device
+Got above exception on ref=ryanholbrook/dl-course-data
+Downloading datasets usaf/vietnam-war-bombing-operations of size 0.32 GB
+[Errno 28] No space left on device
+Got above exception on ref=usaf/vietnam-war-bombing-operations
+Downloading datasets kyakovlev/m5-aux-models of size 0.41 GB
+[Errno 28] No space left on device
+Got above exception on ref=kyakovlev/m5-aux-models
+Downloading datasets saurabhshahane/electricity-load-forecasting of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=saurabhshahane/electricity-load-forecasting
+Downloading datasets laibaanwer/superstore-sales-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=laibaanwer/superstore-sales-dataset
+Downloading datasets awsaf49/uwmgi-mask-dataset of size 0.08 GB
+[Errno 28] No space left on device
+Got above exception on ref=awsaf49/uwmgi-mask-dataset
+Downloading datasets gyejr95/league-of-legendslol-ranked-games-2020-ver1 of size 1.60 GB
+[Errno 28] No space left on device
+Got above exception on ref=gyejr95/league-of-legendslol-ranked-games-2020-ver1
+Downloading datasets parulpandey/2020-it-salary-survey-for-eu-region of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=parulpandey/2020-it-salary-survey-for-eu-region
+Downloading datasets kaushiksuresh147/covidvaccine-tweets of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=kaushiksuresh147/covidvaccine-tweets
+Downloading datasets noqcks/aws-spot-pricing-market of size 0.16 GB
+[Errno 28] No space left on device
+Got above exception on ref=noqcks/aws-spot-pricing-market
+Downloading datasets archaeocharlie/comcastcomplaints of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=archaeocharlie/comcastcomplaints
+Downloading datasets lespin/house-prices-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=lespin/house-prices-dataset
+Downloading datasets kingburrito666/better-donald-trump-tweets of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kingburrito666/better-donald-trump-tweets
+Downloading datasets felsal/ibovespa-stocks of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=felsal/ibovespa-stocks
+Downloading datasets rounak041993/traffic-violations-in-maryland-county of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=rounak041993/traffic-violations-in-maryland-county
+Downloading datasets kapastor/democratvsrepublicantweets of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kapastor/democratvsrepublicantweets
+Downloading datasets abhishekyana/nse-listed-1384-companies-data of size 0.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=abhishekyana/nse-listed-1384-companies-data
+Downloading datasets mahmoudima/mma-facial-expression of size 0.17 GB
+[Errno 28] No space left on device
+Got above exception on ref=mahmoudima/mma-facial-expression
+Downloading datasets shawon10/web-log-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shawon10/web-log-dataset
+Downloading datasets gowrishankarp/newspaper-text-summarization-cnn-dailymail of size 0.53 GB
+[Errno 28] No space left on device
+Got above exception on ref=gowrishankarp/newspaper-text-summarization-cnn-dailymail
+Downloading datasets jboysen/african-conflicts of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=jboysen/african-conflicts
+Downloading datasets cityapiio/world-cities-air-quality-and-water-polution of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=cityapiio/world-cities-air-quality-and-water-polution
+Downloading datasets chetanism/foursquare-nyc-and-tokyo-checkin-dataset of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=chetanism/foursquare-nyc-and-tokyo-checkin-dataset
+Downloading datasets hasibalmuzdadid/messi-neymar-ronaldo-lewandowski-all-goals of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=hasibalmuzdadid/messi-neymar-ronaldo-lewandowski-all-goals
+Downloading datasets hmavrodiev/sofia-air-quality-dataset of size 3.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=hmavrodiev/sofia-air-quality-dataset
+Downloading datasets swaptr/fifa-world-cup-2022-statistics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=swaptr/fifa-world-cup-2022-statistics
+Downloading datasets fernandol/world-values-survey of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=fernandol/world-values-survey
+Downloading datasets robseidl/tennis-atp-tour-australian-open-final-2019 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=robseidl/tennis-atp-tour-australian-open-final-2019
+Downloading datasets schiller/cartolafc of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=schiller/cartolafc
+Downloading datasets kukuroo3/ecommerce-shipping-data-competition-form of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kukuroo3/ecommerce-shipping-data-competition-form
+Downloading datasets saurabhshahane/statsbomb-football-data of size 0.54 GB
+[Errno 28] No space left on device
+Got above exception on ref=saurabhshahane/statsbomb-football-data
+Downloading datasets mathurinache/efficientdet of size 0.68 GB
+[Errno 28] No space left on device
+Got above exception on ref=mathurinache/efficientdet
+Downloading datasets pascalbliem/european-social-survey-ess-8-ed21-201617 of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=pascalbliem/european-social-survey-ess-8-ed21-201617
+Downloading datasets delayedkarma/fantasy-premier-league-20182019 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=delayedkarma/fantasy-premier-league-20182019
+Downloading datasets jboysen/google-project-sunroof of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=jboysen/google-project-sunroof
+Downloading datasets noaa/seismic-waves of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=noaa/seismic-waves
+Downloading datasets akshay4/road-accidents-incidence of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=akshay4/road-accidents-incidence
+Downloading datasets raghu07/vegetable-and-fruits-price-in-india of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=raghu07/vegetable-and-fruits-price-in-india
+Downloading datasets deepcontractor/ipl-2021-ball-by-ball-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/ipl-2021-ball-by-ball-dataset
+Downloading datasets sgus1318/winedata of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=sgus1318/winedata
+Downloading datasets pranav941/-sea-of-fishes of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=pranav941/-sea-of-fishes
+Downloading datasets anas123siddiqui/mobiles of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=anas123siddiqui/mobiles
+Downloading datasets hunter0007/ecommerce-dataset-for-predictive-marketing-2023 of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=hunter0007/ecommerce-dataset-for-predictive-marketing-2023
+Downloading datasets lasaljaywardena/sri-lanka-vehicle-prices-dataset of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=lasaljaywardena/sri-lanka-vehicle-prices-dataset
+Downloading datasets ahmedshahriarsakib/uber-eats-usa-restaurants-menus of size 0.14 GB
+[Errno 28] No space left on device
+Got above exception on ref=ahmedshahriarsakib/uber-eats-usa-restaurants-menus
+Downloading datasets kouroshalizadeh/history-of-philosophy of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=kouroshalizadeh/history-of-philosophy
+Downloading datasets upadorprofzs/salaries-of-magistrates-brasil of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=upadorprofzs/salaries-of-magistrates-brasil
+Downloading datasets jjacostupa/condition-monitoring-of-hydraulic-systems of size 0.10 GB
+[Errno 28] No space left on device
+Got above exception on ref=jjacostupa/condition-monitoring-of-hydraulic-systems
+Downloading datasets raddar/ncaa-women-538-team-ratings of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=raddar/ncaa-women-538-team-ratings
+Downloading datasets gpreda/coronavirus-2019ncov of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=gpreda/coronavirus-2019ncov
+Downloading datasets miklgr500/jigsaw-train-multilingual-coments-google-api of size 0.52 GB
+[Errno 28] No space left on device
+Got above exception on ref=miklgr500/jigsaw-train-multilingual-coments-google-api
+Downloading datasets septa/on-time-performance of size 0.12 GB
+[Errno 28] No space left on device
+Got above exception on ref=septa/on-time-performance
+Downloading datasets bpali26/popular-websites-across-the-globe of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=bpali26/popular-websites-across-the-globe
+Downloading datasets heemalichaudhari/adidas-sales-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=heemalichaudhari/adidas-sales-dataset
+Downloading datasets augustop/portuguese-tweets-for-sentiment-analysis of size 0.24 GB
+[Errno 28] No space left on device
+Got above exception on ref=augustop/portuguese-tweets-for-sentiment-analysis
+Downloading datasets abhishek/sacremoses of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=abhishek/sacremoses
+Downloading datasets lucafrance/the-world-factbook-by-cia of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=lucafrance/the-world-factbook-by-cia
+Downloading datasets devsubhash/flipkart-mobiles-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=devsubhash/flipkart-mobiles-dataset
+Downloading datasets shubhmamp/english-premier-league-match-data of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=shubhmamp/english-premier-league-match-data
+Downloading datasets cdeotte/melanoma-512x512 of size 2.80 GB
+[Errno 28] No space left on device
+Got above exception on ref=cdeotte/melanoma-512x512
+Downloading datasets shivan118/world-university-rankings-analytics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shivan118/world-university-rankings-analytics
+Downloading datasets najzeko/steam-reviews-2021 of size 3.19 GB
+[Errno 28] No space left on device
+Got above exception on ref=najzeko/steam-reviews-2021
+Downloading datasets chaibapat/slogan-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=chaibapat/slogan-dataset
+Downloading datasets rishikeshkonapure/zomato of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=rishikeshkonapure/zomato
+Downloading datasets city-of-seattle/seattle-library-collection-inventory of size 4.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=city-of-seattle/seattle-library-collection-inventory
+Downloading datasets kaggleqrdl/gd2022datasets of size 0.41 GB
+[Errno 28] No space left on device
+Got above exception on ref=kaggleqrdl/gd2022datasets
+Downloading datasets bcgvaccine/hackathon of size 4.70 GB
+[Errno 28] No space left on device
+Got above exception on ref=bcgvaccine/hackathon
+Downloading datasets christophercorrea/prisoners-and-crime-in-united-states of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=christophercorrea/prisoners-and-crime-in-united-states
+Downloading datasets theworldbank/ibrd-statement-of-loans-data of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=theworldbank/ibrd-statement-of-loans-data
+Downloading datasets nancyalaswad90/finding-donors-for-charityml of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=nancyalaswad90/finding-donors-for-charityml
+Downloading datasets lislejoem/us_energy_census_gdp_10-14 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=lislejoem/us_energy_census_gdp_10-14
+Downloading datasets pengcw1/market-1501 of size 0.15 GB
+[Errno 28] No space left on device
+Got above exception on ref=pengcw1/market-1501
+Downloading datasets census/2015-american-community-survey of size 1.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=census/2015-american-community-survey
+Downloading datasets kianwee/agricultural-raw-material-prices-19902020 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kianwee/agricultural-raw-material-prices-19902020
+Downloading datasets akhileshdkapse/super-image-resolution of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=akhileshdkapse/super-image-resolution
+Downloading datasets atilamadai/covid19 of size 0.38 GB
+[Errno 28] No space left on device
+Got above exception on ref=atilamadai/covid19
+Downloading datasets shan4224/demonetization-in-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shan4224/demonetization-in-india
+Downloading datasets hwassner/TwitterFriends of size 0.18 GB
+[Errno 28] No space left on device
+Got above exception on ref=hwassner/TwitterFriends
+Downloading datasets thedevastator/mcdonalds-ice-cream-machines-broken-timeseries of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/mcdonalds-ice-cream-machines-broken-timeseries
+Downloading datasets andrewlucci/huawei-social-network-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=andrewlucci/huawei-social-network-data
+Downloading datasets gaborfodor/additional-kiva-snapshot of size 0.90 GB
+[Errno 28] No space left on device
+Got above exception on ref=gaborfodor/additional-kiva-snapshot
+Downloading datasets jtennis/spctornado of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=jtennis/spctornado
+Downloading datasets abhishek/distilbertbaseuncased of size 0.25 GB
+[Errno 28] No space left on device
+Got above exception on ref=abhishek/distilbertbaseuncased
+Downloading datasets rohankayan/years-of-experience-and-salary-dataset of size 0.00 GB
+1123/1317 Downloaded dataset rohankayan/years-of-experience-and-salary-dataset in 0.87 s
+Downloading datasets yunlevin/levin-vehicle-telematics of size 0.62 GB
+[Errno 28] No space left on device
+Got above exception on ref=yunlevin/levin-vehicle-telematics
+Downloading datasets usharengaraju/customer-frauddata of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=usharengaraju/customer-frauddata
+Downloading datasets mamtadhaker/lt-vehicle-loan-default-prediction of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=mamtadhaker/lt-vehicle-loan-default-prediction
+Downloading datasets teksab/imagenetvggverydeep19mat of size 0.54 GB
+[Errno 28] No space left on device
+Got above exception on ref=teksab/imagenetvggverydeep19mat
+Downloading datasets mathchi/online-retail-ii-data-set-from-ml-repository of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=mathchi/online-retail-ii-data-set-from-ml-repository
+Downloading datasets ashishpatel26/facial-expression-recognitionferchallenge of size 0.10 GB
+[Errno 28] No space left on device
+Got above exception on ref=ashishpatel26/facial-expression-recognitionferchallenge
+Downloading datasets fmejia21/nba-all-star-game-20002016 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=fmejia21/nba-all-star-game-20002016
+Downloading datasets rajanand/prison-in-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rajanand/prison-in-india
+Downloading datasets ramakrishnanthiyagu/delivery-truck-trips-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ramakrishnanthiyagu/delivery-truck-trips-data
+Downloading datasets trolukovich/steam-games-complete-dataset of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=trolukovich/steam-games-complete-dataset
+Downloading datasets tr1gg3rtrash/global-disaster-risk-index-time-series-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=tr1gg3rtrash/global-disaster-risk-index-time-series-dataset
+Downloading datasets anasmahmood000/udemy-courses-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=anasmahmood000/udemy-courses-dataset
+Downloading datasets backblaze/hard-drive-test-data of size 0.21 GB
+[Errno 28] No space left on device
+Got above exception on ref=backblaze/hard-drive-test-data
+Downloading datasets subhamjain/temperature-of-all-countries-19952020 of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=subhamjain/temperature-of-all-countries-19952020
+Downloading datasets ma7555/schengen-visa-stats of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ma7555/schengen-visa-stats
+Downloading datasets vmalyi/run-or-walk of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vmalyi/run-or-walk
+Downloading datasets sabermalek/mrihs of size 0.17 GB
+[Errno 28] No space left on device
+Got above exception on ref=sabermalek/mrihs
+Downloading datasets daisukelab/fat2019_prep_mels1 of size 3.35 GB
+[Errno 28] No space left on device
+Got above exception on ref=daisukelab/fat2019_prep_mels1
+Downloading datasets HRAnalyticRepository/absenteeism-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=HRAnalyticRepository/absenteeism-dataset
+Downloading datasets gunviolencearchive/gun-violence-database of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=gunviolencearchive/gun-violence-database
+Downloading datasets iamsouravbanerjee/top-50-fastfood-chains-in-usa of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=iamsouravbanerjee/top-50-fastfood-chains-in-usa
+Downloading datasets zusmani/vikings-all-seasons-complete-script of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=zusmani/vikings-all-seasons-complete-script
+Downloading datasets arashnic/mind-news-dataset of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=arashnic/mind-news-dataset
+Downloading datasets cedricaubin/linkedin-data-analyst-jobs-listings of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=cedricaubin/linkedin-data-analyst-jobs-listings
+Downloading datasets omkargowda/data-scientist-salary of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=omkargowda/data-scientist-salary
+Downloading datasets salimwid/technology-company-layoffs-20222023-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=salimwid/technology-company-layoffs-20222023-data
+Downloading datasets redikod/historical-rainfall-data-in-bangladesh of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=redikod/historical-rainfall-data-in-bangladesh
+Downloading datasets devinanzelmo/indoor-navigation-and-location-wifi-features of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=devinanzelmo/indoor-navigation-and-location-wifi-features
+Downloading datasets traceyvanp/airlinefleet of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=traceyvanp/airlinefleet
+Downloading datasets nyphil/perf-history of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=nyphil/perf-history
+Downloading datasets jsphyg/tipping of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=jsphyg/tipping
+Downloading datasets bogof666/shanghai-car-license-plate-auction-price of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=bogof666/shanghai-car-license-plate-auction-price
+Downloading datasets headsortails/kaggle-weekly-gpu-quotas of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=headsortails/kaggle-weekly-gpu-quotas
+Downloading datasets vkrahul/twitter-hate-speech of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=vkrahul/twitter-hate-speech
+Downloading datasets deepcontractor/miami-housing-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=deepcontractor/miami-housing-dataset
+Downloading datasets rashikrahmanpritom/data-science-job-posting-on-glassdoor of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=rashikrahmanpritom/data-science-job-posting-on-glassdoor
+Downloading datasets ironicninja/bomb-party-dict of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ironicninja/bomb-party-dict
+Downloading datasets galaxyh/kdd-cup-1999-data of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=galaxyh/kdd-cup-1999-data
+Downloading datasets pankrzysiu/weather-archive-jena of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=pankrzysiu/weather-archive-jena
+Downloading datasets trivedicharmi/h1b-disclosure-dataset of size 0.04 GB
+[Errno 28] No space left on device
+Got above exception on ref=trivedicharmi/h1b-disclosure-dataset
+Downloading datasets atulanandjha/stanford-sentiment-treebank-v2-sst2 of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=atulanandjha/stanford-sentiment-treebank-v2-sst2
+Downloading datasets prasoonkottarathil/ethereum-historical-dataset of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=prasoonkottarathil/ethereum-historical-dataset
+Downloading datasets rtatman/handwritten-mathematical-expressions of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/handwritten-mathematical-expressions
+Downloading datasets maxhorowitz/nflplaybyplay2015 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=maxhorowitz/nflplaybyplay2015
+Downloading datasets natehenderson/top-100-cryptocurrency-historical-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=natehenderson/top-100-cryptocurrency-historical-data
+Downloading datasets niharika41298/yoga-poses-dataset of size 0.30 GB
+[Errno 28] No space left on device
+Got above exception on ref=niharika41298/yoga-poses-dataset
+Downloading datasets erikvdven/tiktok-trending-december-2020 of size 3.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=erikvdven/tiktok-trending-december-2020
+Downloading datasets prathamtripathi/regression-with-neural-networking of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=prathamtripathi/regression-with-neural-networking
+Downloading datasets thedevastator/revealing-insights-from-youtube-video-and-channe of size 0.09 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/revealing-insights-from-youtube-video-and-channe
+Downloading datasets columbia2131/otto-chunk-data-inparquet-format of size 1.81 GB
+[Errno 28] No space left on device
+Got above exception on ref=columbia2131/otto-chunk-data-inparquet-format
+Downloading datasets fda/adverse-pharmaceuticals-events of size 1.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=fda/adverse-pharmaceuticals-events
+Downloading datasets thedevastator/domestic-food-prices-after-covid-19 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=thedevastator/domestic-food-prices-after-covid-19
+Downloading datasets jagadishkittu/powerbi-projects of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=jagadishkittu/powerbi-projects
+Downloading datasets soroushghaderi/chocolate-bar-2020 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=soroushghaderi/chocolate-bar-2020
+Downloading datasets piyushgoyal443/red-wine-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=piyushgoyal443/red-wine-dataset
+Downloading datasets pankajjsh06/ibm-watson-marketing-customer-value-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=pankajjsh06/ibm-watson-marketing-customer-value-data
+Downloading datasets akshaypawar7/millions-of-movies of size 0.17 GB
+[Errno 28] No space left on device
+Got above exception on ref=akshaypawar7/millions-of-movies
+Downloading datasets harsha547/ipldatabase of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=harsha547/ipldatabase
+Downloading datasets costalaether/yeast-transcriptomics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=costalaether/yeast-transcriptomics
+Downloading datasets sindraanthony9985/marketing-data-for-a-supermarket-in-united-states of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=sindraanthony9985/marketing-data-for-a-supermarket-in-united-states
+Downloading datasets ahsan81/job-placement-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ahsan81/job-placement-dataset
+Downloading datasets hemil26/crime-in-los-angeles of size 0.02 GB
+[Errno 28] No space left on device
+Got above exception on ref=hemil26/crime-in-los-angeles
+Downloading datasets greenwing1985/housepricing of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=greenwing1985/housepricing
+Downloading datasets piterfm/beijing-2022-olympics of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=piterfm/beijing-2022-olympics
+Downloading datasets kolawale/focusing-on-mobile-app-or-website of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=kolawale/focusing-on-mobile-app-or-website
+Downloading datasets soumendraprasad/80000-crime-related-indian-articles of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=soumendraprasad/80000-crime-related-indian-articles
+Downloading datasets san-francisco/sf-employee-compensation of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=san-francisco/sf-employee-compensation
+Downloading datasets samuelcortinhas/rsna-2022-spine-fracture-detection-metadata of size 0.12 GB
+[Errno 28] No space left on device
+Got above exception on ref=samuelcortinhas/rsna-2022-spine-fracture-detection-metadata
+Downloading datasets jbuchner/synthetic-speech-commands-dataset of size 1.90 GB
+[Errno 28] No space left on device
+Got above exception on ref=jbuchner/synthetic-speech-commands-dataset
+Downloading datasets pytorch/resnet50 of size 0.10 GB
+[Errno 28] No space left on device
+Got above exception on ref=pytorch/resnet50
+Downloading datasets jeffreybraun/chipotle-locations of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=jeffreybraun/chipotle-locations
+Downloading datasets stackoverflow/stack-overflow-tag-network of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=stackoverflow/stack-overflow-tag-network
+Downloading datasets wduckett/moneyball-mlb-stats-19622012 of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=wduckett/moneyball-mlb-stats-19622012
+Downloading datasets ucsusa/active-satellites of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ucsusa/active-satellites
+Downloading datasets ysthehurricane/impact-of-covid19-on-unemployment-rate-in-india of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ysthehurricane/impact-of-covid19-on-unemployment-rate-in-india
+Downloading datasets luisfredgs/imdb-ptbr of size 0.05 GB
+[Errno 28] No space left on device
+Got above exception on ref=luisfredgs/imdb-ptbr
+Downloading datasets prondeau/superbowlads of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=prondeau/superbowlads
+Downloading datasets therohk/global-news-week of size 0.28 GB
+[Errno 28] No space left on device
+Got above exception on ref=therohk/global-news-week
+Downloading datasets alejopaullier/usa-counties-coordinates of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=alejopaullier/usa-counties-coordinates
+Downloading datasets ratthachat/efficientnet-keras-weights-b0b5 of size 0.28 GB
+[Errno 28] No space left on device
+Got above exception on ref=ratthachat/efficientnet-keras-weights-b0b5
+Downloading datasets divyeshardeshana/supply-chain-shipment-pricing-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=divyeshardeshana/supply-chain-shipment-pricing-data
+Downloading datasets ashwinik/consumer-complaints-financial-products of size 0.06 GB
+[Errno 28] No space left on device
+Got above exception on ref=ashwinik/consumer-complaints-financial-products
+Downloading datasets koki25ando/hostel-world-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=koki25ando/hostel-world-dataset
+Downloading datasets subhamjain/amazon-product-browse-node-classification-data of size 1.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=subhamjain/amazon-product-browse-node-classification-data
+Downloading datasets iafoss/grapheme-imgs-128x128 of size 0.65 GB
+[Errno 28] No space left on device
+Got above exception on ref=iafoss/grapheme-imgs-128x128
+Downloading datasets webaccess/all-census-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=webaccess/all-census-data
+Downloading datasets ryati131457/pytorchtabnet of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=ryati131457/pytorchtabnet
+Downloading datasets shivachandel/kc-house-data of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shivachandel/kc-house-data
+Downloading datasets akababa/cryptocurrencies of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=akababa/cryptocurrencies
+Downloading datasets nickdl/snp-500-intraday-data of size 0.43 GB
+[Errno 28] No space left on device
+Got above exception on ref=nickdl/snp-500-intraday-data
+Downloading datasets gargmanas/parkinsonsdataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=gargmanas/parkinsonsdataset
+Downloading datasets qiriro/swell-heart-rate-variability-hrv of size 0.24 GB
+[Errno 28] No space left on device
+Got above exception on ref=qiriro/swell-heart-rate-variability-hrv
+Downloading datasets manoelribeiro/hateful-users-on-twitter of size 1.75 GB
+[Errno 28] No space left on device
+Got above exception on ref=manoelribeiro/hateful-users-on-twitter
+Downloading datasets equilibriumm/sleep-efficiency of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=equilibriumm/sleep-efficiency
+Downloading datasets parulpandey/emotion-dataset of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=parulpandey/emotion-dataset
+Downloading datasets shuyangli94/interview-npr-media-dialog-transcripts of size 0.31 GB
+[Errno 28] No space left on device
+Got above exception on ref=shuyangli94/interview-npr-media-dialog-transcripts
+Downloading datasets xwolf12/datasetandroidpermissions of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=xwolf12/datasetandroidpermissions
+Downloading datasets rtatman/3-million-german-sentences of size 0.15 GB
+[Errno 28] No space left on device
+Got above exception on ref=rtatman/3-million-german-sentences
+Downloading datasets liujiaqi/hr-comma-sepcsv of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=liujiaqi/hr-comma-sepcsv
+Downloading datasets fahd09/arabic-poetry-dataset-478-2017 of size 0.03 GB
+[Errno 28] No space left on device
+Got above exception on ref=fahd09/arabic-poetry-dataset-478-2017
+Downloading datasets nelsonchu/air-quality-in-northern-taiwan of size 0.01 GB
+[Errno 28] No space left on device
+Got above exception on ref=nelsonchu/air-quality-in-northern-taiwan
+Downloading datasets shashwatwork/phishing-dataset-for-machine-learning of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=shashwatwork/phishing-dataset-for-machine-learning
+Downloading datasets nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone of size 1.63 GB
+[Errno 28] No space left on device
+Got above exception on ref=nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+Downloading datasets piterfm/fifa-football-world-cup of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=piterfm/fifa-football-world-cup
+Downloading datasets nltkdata/names of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=nltkdata/names
+Downloading datasets mylesoneill/warcraft-avatar-history of size 0.07 GB
+[Errno 28] No space left on device
+Got above exception on ref=mylesoneill/warcraft-avatar-history
+Downloading datasets hudsonstuck/stockx-data-contest of size 0.00 GB
+[Errno 28] No space left on device
+Got above exception on ref=hudsonstuck/stockx-data-contest
+Downloading datasets colinmorris/reddit-usernames of size 0.22 GB
+[Errno 28] No space left on device
+Got above exception on ref=colinmorris/reddit-usernames
+Finished downloading 233 datasets, took 9377.63 s

@@ -1,0 +1,18 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,235,timoboz_google-trends-data,../datasets\timoboz_google-trends-data\20150606_belmont15v2.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 509, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 2677, in _update_profile_from_chunk
+    self._profile[prof_idx]._update_base_stats(base_stats)
+  File ""C:\Users\radue\AppData\Roaming\Python\Python39\site-packages\dataprofiler\profilers\profile_builder.py"", line 430, in _update_base_stats
+    null_rows.sort()
+TypeError: '<' not supported between instances of 'float' and 'str'
+"

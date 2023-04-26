@@ -1,0 +1,364 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,61,mpwolke_cusersmarildownloadsexposurecsv,../datasets_50_100\mpwolke_cusersmarildownloadsexposurecsv\exposure.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 323, in read_csv_df
+    fo = pd.read_csv(file_path, **args)
+  File ""X:\Anaconda\lib\site-packages\pandas\util\_decorators.py"", line 311, in wrapper
+    return func(*args, **kwargs)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 69, in __init__
+    self._reader = parsers.TextReader(self.handles.handle, **kwds)
+  File ""pandas\_libs\parsers.pyx"", line 542, in pandas._libs.parsers.TextReader.__cinit__
+  File ""pandas\_libs\parsers.pyx"", line 642, in pandas._libs.parsers.TextReader._get_header
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1917, in pandas._libs.parsers.raise_parser_error
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf4 in position 15553: invalid continuation byte
+"
+1,65,kashishnaqvi_suicidal-behaviours-among-adolescents,../datasets_50_100\kashishnaqvi_suicidal-behaviours-among-adolescents\Originally collectedGHSH_Pooled_Data.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 558, in _load_data_from_file
+    data_as_str = data_utils.load_as_str_from_file(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 641, in load_as_str_from_file
+    sample_lines = csvfile.read(sample_size_bytes)
+  File ""X:\Anaconda\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+"
+2,79,pronto_cycle-share-dataset,../datasets_50_100\pronto_cycle-share-dataset\trip.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 12 fields in line 50794, saw 20
+
+"
+3,125,mpwolke_cusersmarildownloadsscarcitycsv,../datasets_50_100\mpwolke_cusersmarildownloadsscarcitycsv\scarcity.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 14 fields in line 10, saw 15
+
+"
+4,133,arwinneil_gsmarena-phone-dataset,../datasets_50_100\arwinneil_gsmarena-phone-dataset\phone_dataset .csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 40 fields in line 821, saw 41
+
+"
+5,151,pranav941_hydroponics-feed,../datasets_50_100\pranav941_hydroponics-feed\feeds.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: EOF inside string starting at row 41553
+"
+6,184,imoore_tensorflow-official-text-datasets,../datasets_50_100\imoore_tensorflow-official-text-datasets\sentiment_testdata.manual.2009.06.14.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 28, saw 367
+
+"
+7,184,imoore_tensorflow-official-text-datasets,../datasets_50_100\imoore_tensorflow-official-text-datasets\sentiment_training.1600000.processed.noemoticon.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 28, saw 367
+
+"
+8,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\NewsSearchRelatedQueries.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+9,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\NewsSearchRelatedTopics.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+10,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\WebSearch_RelatedQueries.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+11,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\WebSearch_RelatedTopics.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+12,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\YoutubeSearchRelatedQueries.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"
+13,198,usharengaraju_data-science-global-trends-2010-2021,../datasets_50_100\usharengaraju_data-science-global-trends-2010-2021\YoutubeSearchRelatedTopics.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 510, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+
+"

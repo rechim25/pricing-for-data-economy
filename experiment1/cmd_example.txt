@@ -1,0 +1,12 @@
+cd /d D:\meng-code\kaggle_data\attribute_extraction
+
+python attributes.py extract -i <index> <input_refs_file>.csv <datasets_root_folder> <output_file>.csv
+
+python attributes.py extract -r 0-20 <input_refs_file>.csv <datasets_root_folder> <output_file>.csv
+
+python attributes.py extract <input_refs_file>.csv <datasets_root_folder> <output_file>.csv
+
+Example:
+python attributes.py extract -i 0 ./input/datasets_group_50_100_sampled.csv ../datasets_50_100 test.csv
+
+python attributes.py extract -r 0-100 ./input/datasets_group_100_sampled.csv ../datasets ./run_100/0-100.csv

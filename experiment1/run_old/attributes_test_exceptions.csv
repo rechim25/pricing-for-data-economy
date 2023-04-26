@@ -1,0 +1,10 @@
+,ref_no_slash,file_path,exception_str
+0,adityavishnu1_my-data,../datasets\adityavishnu1_my-data\Project 3 - Merged Data.csv,"Traceback (most recent call last):
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 464, in extract_attributes_to_df
+    attribute_dict = create_attributes_from_file_report(data, report)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 343, in create_attributes_from_file_report
+    add_completeness_attributes(attributes_dict, feature_stats, global_stats, data.data)
+  File ""D:\meng-code\kaggle_data\attribute_extraction\attribute_extraction.py"", line 288, in add_completeness_attributes
+    dict['avg_unalikeability_categ_features'] += feature_stats['statistics']['unalikeability']
+TypeError: unsupported operand type(s) for +=: 'float' and 'NoneType'
+"

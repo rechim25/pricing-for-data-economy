@@ -1,0 +1,41 @@
+{
+  "id": "amalab182/property-salesmelbourne-city",
+  "id_no": 2990941,
+  "datasetSlugNullable": "property-salesmelbourne-city",
+  "ownerUserNullable": "amalab182",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Property sales:Melbourne City",
+  "subtitleNullable": "Exploring the Melbourne Housing Market: A Comprehensive Dataset of Property Sale",
+  "descriptionNullable": "The data provided is a set of property sales in the suburb of Abbotsford, Victoria, Australia. It includes details such as the address, number of rooms, property type, price, method of sale, and seller information, as well as information on the property's location and characteristics, such as distance from the city center, postcode, bedroom and bathroom count, car spaces, land size, building area, year built, council area, latitude and longitude, region name, and property count.",
+  "datasetId": 2990941,
+  "datasetSlug": "property-salesmelbourne-city",
+  "hasDatasetSlug": true,
+  "ownerUser": "amalab182",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2371,
+  "totalVotes": 21,
+  "totalDownloads": 500,
+  "title": "Property sales:Melbourne City",
+  "hasTitle": true,
+  "subtitle": "Exploring the Melbourne Housing Market: A Comprehensive Dataset of Property Sale",
+  "hasSubtitle": true,
+  "description": "The data provided is a set of property sales in the suburb of Abbotsford, Victoria, Australia. It includes details such as the address, number of rooms, property type, price, method of sale, and seller information, as well as information on the property's location and characteristics, such as distance from the city center, postcode, bedroom and bathroom count, car spaces, land size, building area, year built, council area, latitude and longitude, region name, and property count.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "australia",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,82 @@
+,folder_num,ref_no_slash,file_path,exception_str
+0,30,jayrav13_olympic-track-field-results,../datasets_50_100\jayrav13_olympic-track-field-results\results.csv,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\csv_data.py"", line 597, in _load_data_from_file
+    return data_utils.read_csv_df(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\data_utils.py"", line 324, in read_csv_df
+    data = fo.read()
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\readers.py"", line 1047, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File ""X:\Anaconda\lib\site-packages\pandas\io\parsers\c_parser_wrapper.py"", line 223, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File ""pandas\_libs\parsers.pyx"", line 801, in pandas._libs.parsers.TextReader.read_low_memory
+  File ""pandas\_libs\parsers.pyx"", line 857, in pandas._libs.parsers.TextReader._read_rows
+  File ""pandas\_libs\parsers.pyx"", line 843, in pandas._libs.parsers.TextReader._tokenize_rows
+  File ""pandas\_libs\parsers.pyx"", line 1925, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 8 fields in line 156, saw 9
+
+"
+1,41,thoughtvector_podcastreviews,../datasets_50_100\thoughtvector_podcastreviews\reviews.json,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 337, in create_profiler_report
+    sample_size = min(len(data.data), 500000)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 225, in __getattribute__
+    returned = object.__getattribute__(self, name)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\base_data.py"", line 70, in data
+    self._load_data()
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\structured_mixins.py"", line 60, in _load_data
+    self._data = self._load_data_from_file(self.input_file_path)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\data_readers\json_data.py"", line 273, in _load_data_from_file
+    data = json.load(input_file)
+  File ""X:\Anaconda\lib\json\__init__.py"", line 293, in load
+    return loads(fp.read(),
+  File ""X:\Anaconda\lib\codecs.py"", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+MemoryError
+"
+2,60,succinctlyai_midjourney-texttoimage,../datasets_50_100\succinctlyai_midjourney-texttoimage\general-01_2022_06_26.json,"Traceback (most recent call last):
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 525, in extract_file_attributes_to_df
+    report, sample_size = create_profiler_report(data, profiler_options)
+  File ""X:\meng-thesis-code\data-valuation\attribute_extraction\attributes.py"", line 340, in create_profiler_report
+    profile = Profiler(data, samples_per_update=sample_size, options=profiler_options)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\profile_builder.py"", line 2800, in __new__
+    return StructuredProfiler(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\profile_builder.py"", line 1532, in __init__
+    self.update_profile(data)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\profile_builder.py"", line 908, in update_profile
+    self._update_profile_from_chunk(data, sample_size, min_true_samples)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\profile_builder.py"", line 2690, in _update_profile_from_chunk
+    self._profile[prof_idx].update_column_profilers(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\profile_builder.py"", line 170, in update_column_profilers
+    ""data_label_profile"": ColumnDataLabelerCompiler(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 51, in __init__
+    self._create_profile(df_series, options, pool)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 107, in _create_profile
+    self.update_profile(df_series, pool)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\column_profile_compilers.py"", line 177, in update_profile
+    self._profiles[profile_type].update(df_series)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 424, in update
+    self._update_predictions(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\utils.py"", line 681, in wrapper
+    result = method(self, *args, **kw)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\profilers\data_labeler_column_profile.py"", line 371, in _update_predictions
+    predictions = self.data_labeler.predict(
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\labelers\base_data_labeler.py"", line 323, in predict
+    results = self._postprocessor.process(data, results, self.label_mapping)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\labelers\data_processing.py"", line 1831, in process
+    results = self.match_sentence_lengths(data, dict(results), flatten_separator)
+  File ""X:\Anaconda\lib\site-packages\dataprofiler\labelers\data_processing.py"", line 1692, in match_sentence_lengths
+    conf_buffer = np.concatenate(results[""conf""])
+  File ""<__array_function__ internals>"", line 180, in concatenate
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 2.03 GiB for an array with shape (11345792, 24) and data type float64
+"
